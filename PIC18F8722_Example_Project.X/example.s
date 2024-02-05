@@ -1,4 +1,5 @@
 ; Program to move 3 values to 3 memory 
+; Add the global options "-Wl,-presetVector=0h, -Wl,-pstart=200h" in MPLAB before building this
     
 processor 18F8722
 radix   dec ; use decimal numbers
