@@ -25,7 +25,7 @@ start:
     movlw 0x15
     movwf 12
 loop:
-    bra loop ; loop back to start
+    bra loop ; endless loop
     end
 
 
