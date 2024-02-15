@@ -1,0 +1,78 @@
+__S0 0 0 ABS 0
+__S1 0 0 ABS 0
+__S3 0 0 ABS 0
+__Hudata_bank10 20E 0 ABS 0
+__Ludata_bank10 20E 0 ABS 0
+__Hudata_bank4 20E 0 ABS 0
+__Ludata_bank4 20E 0 ABS 0
+__Hudata_bank13 20E 0 ABS 0
+__Ludata_bank13 20E 0 ABS 0
+__Hconfig 30000E 0 CONFIG 4
+__Lconfig 0 0 CONFIG 4
+__Hudata_acs 20E 0 ABS 0
+__Ludata_acs 20E 0 ABS 0
+isa$xinst 0 0 ABS 0
+__Hudata_bank5 20E 0 ABS 0
+__Ludata_bank5 20E 0 ABS 0
+__Hcode 20E 0 ABS 0
+__Lcode 20E 0 ABS 0
+__Hdata 20E 0 ABS 0
+__Ldata 20E 0 ABS 0
+isa$std 1 0 ABS 0
+__Hudata_bank0 20E 0 ABS 0
+__Ludata_bank0 20E 0 ABS 0
+__HresetVector 4 0 CODE 0
+__LresetVector 0 0 CODE 0
+__Hudata_bank11 20E 0 ABS 0
+__Ludata_bank11 20E 0 ABS 0
+__Hudata_bank6 20E 0 ABS 0
+__Ludata_bank6 20E 0 ABS 0
+__Hudata_bank14 20E 0 ABS 0
+__Ludata_bank14 20E 0 ABS 0
+__H__absolute__ 0 0 ABS 0
+__L__absolute__ 0 0 ABS 0
+__Hedata 20E 0 ABS 0
+__Ledata 20E 0 ABS 0
+__Hudata 20E 0 ABS 0
+__Ludata 20E 0 ABS 0
+__Hudata_bank1 20E 0 ABS 0
+__Ludata_bank1 20E 0 ABS 0
+__Hspace_0 20E 0 ABS 0
+__Lspace_0 0 0 ABS 0
+__Hspace_1 0 0 ABS 0
+__Lspace_1 0 0 ABS 0
+__Hudata_bank7 20E 0 ABS 0
+__Ludata_bank7 20E 0 ABS 0
+__Hspace_3 0 0 ABS 0
+__Lspace_3 0 0 ABS 0
+__Hstart 20E 0 CODE 0
+__Lstart 200 0 CODE 0
+__Hspace_4 60000F 0 ABS 0
+__Lspace_4 0 0 ABS 0
+__Hudata_bank2 20E 0 ABS 0
+__Ludata_bank2 20E 0 ABS 0
+__Hudata_bank12 20E 0 ABS 0
+__Ludata_bank12 20E 0 ABS 0
+__Hudata_bank8 20E 0 ABS 0
+__Ludata_bank8 20E 0 ABS 0
+__Hudata_bank15 20E 0 ABS 0
+__Ludata_bank15 20E 0 ABS 0
+__Hudata_bank3 20E 0 ABS 0
+__Ludata_bank3 20E 0 ABS 0
+__Hudata_bank9 20E 0 ABS 0
+__Ludata_bank9 20E 0 ABS 0
+%segments
+resetVector 0 3 CODE 0 0
+start 200 20D CODE 200 0
+%locals
+build/default/debug/example.o
+example.s
+16 0 0 CODE 0
+example.s
+21 200 0 CODE 0
+22 202 0 CODE 0
+23 204 0 CODE 0
+24 206 0 CODE 0
+25 208 0 CODE 0
+26 20A 0 CODE 0
+28 20C 0 CODE 0

@@ -1,0 +1,33 @@
+### HEXMate logfile and output summary ###
+
+### Command-line arguments ###
+ C:\Users\mchsssw4\AppData\Local\Temp\xcAs1uc.\driver_tmp_3.o
+ -Odist/default/debug\Example_Project.X.debug.hex
+ -logfile=dist/default/debug\Example_Project.X.debug.hxl
+ -addressing=1
+ -break=300000
+
+### Memory Usage ###
+ Input file ranges:
+  0h - 3h		(C:\Users\mchsssw4\AppData\Local\Temp\xcAs1uc.\driver_tmp_3.o)
+  200h - 20Dh		(C:\Users\mchsssw4\AppData\Local\Temp\xcAs1uc.\driver_tmp_3.o)
+  300001h - 300006h		(C:\Users\mchsssw4\AppData\Local\Temp\xcAs1uc.\driver_tmp_3.o)
+  300008h - 30000Dh		(C:\Users\mchsssw4\AppData\Local\Temp\xcAs1uc.\driver_tmp_3.o)
+ Unused ranges:
+  4h - 1FFh
+  20Eh - 300000h
+  300007h - 300007h
+
+### Hex Memory Map ###
+ Legend:
+  -- = Unused memory
+  H1 = Input file             (C:\Users\mchsssw4\AppData\Local\Temp\xcAs1uc.\driver_tmp_3.o)
+----------------------------------------------------------
+         | 00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F
+----------------------------------------------------------
+00000000 | H1 H1 H1 H1 -- -- -- -- -- -- -- -- -- -- -- --
+----------------------------------------------------------
+00000200 | H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 -- --
+----------------------------------------------------------
+00300000 | -- H1 H1 H1 H1 H1 H1 -- H1 H1 H1 H1 H1 H1 -- --
+00300010 | --
