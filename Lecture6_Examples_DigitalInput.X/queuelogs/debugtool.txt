@@ -1,0 +1,1024 @@
+1059 1709289810455 XXXX 1709289810455, Thread 1059: XXXX 1709289810455, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289810555 XXXX 1709289810555, Thread 1059: XXXX 1709289810555, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289810556 XXXX 1709289810556, Thread 1059: XXXX 1709289810556, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289810655 XXXX 1709289810655, Thread 1059: XXXX 1709289810655, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289810656 XXXX 1709289810656, Thread 1059: XXXX 1709289810656, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289810756 XXXX 1709289810756, Thread 1059: XXXX 1709289810756, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289810757 XXXX 1709289810757, Thread 1059: XXXX 1709289810757, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289810857 XXXX 1709289810857, Thread 1059: XXXX 1709289810857, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289810859 XXXX 1709289810859, Thread 1059: XXXX 1709289810859, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289810959 XXXX 1709289810959, Thread 1059: XXXX 1709289810959, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289810960 XXXX 1709289810960, Thread 1059: XXXX 1709289810960, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289811061 XXXX 1709289811061, Thread 1059: XXXX 1709289811061, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289811061 XXXX 1709289811061, Thread 1059: XXXX 1709289811061, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289811161 XXXX 1709289811161, Thread 1059: XXXX 1709289811161, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289811162 XXXX 1709289811162, Thread 1059: XXXX 1709289811162, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289811262 XXXX 1709289811262, Thread 1059: XXXX 1709289811262, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289811263 XXXX 1709289811263, Thread 1059: XXXX 1709289811263, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289811363 XXXX 1709289811363, Thread 1059: XXXX 1709289811363, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289811364 XXXX 1709289811364, Thread 1059: XXXX 1709289811364, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289811465 XXXX 1709289811465, Thread 1059: XXXX 1709289811465, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289811465 XXXX 1709289811465, Thread 1059: XXXX 1709289811465, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289811565 XXXX 1709289811565, Thread 1059: XXXX 1709289811565, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289811566 XXXX 1709289811566, Thread 1059: XXXX 1709289811566, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289811666 XXXX 1709289811666, Thread 1059: XXXX 1709289811666, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289811667 XXXX 1709289811667, Thread 1059: XXXX 1709289811667, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289811766 XXXX 1709289811766, Thread 1059: XXXX 1709289811766, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289811766 XXXX 1709289811766, Thread 1059: XXXX 1709289811766, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289811866 XXXX 1709289811866, Thread 1059: XXXX 1709289811866, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289811867 XXXX 1709289811867, Thread 1059: XXXX 1709289811867, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289811967 XXXX 1709289811967, Thread 1059: XXXX 1709289811967, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289811967 XXXX 1709289811967, Thread 1059: XXXX 1709289811967, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289812067 XXXX 1709289812067, Thread 1059: XXXX 1709289812067, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289812068 XXXX 1709289812068, Thread 1059: XXXX 1709289812068, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289812168 XXXX 1709289812168, Thread 1059: XXXX 1709289812168, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289812169 XXXX 1709289812169, Thread 1059: XXXX 1709289812169, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289812270 XXXX 1709289812270, Thread 1059: XXXX 1709289812270, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289812271 XXXX 1709289812271, Thread 1059: XXXX 1709289812271, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289812372 XXXX 1709289812372, Thread 1059: XXXX 1709289812372, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289812372 XXXX 1709289812372, Thread 1059: XXXX 1709289812372, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289812473 XXXX 1709289812473, Thread 1059: XXXX 1709289812473, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289812474 XXXX 1709289812474, Thread 1059: XXXX 1709289812474, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289812574 XXXX 1709289812574, Thread 1059: XXXX 1709289812574, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289812575 XXXX 1709289812575, Thread 1059: XXXX 1709289812575, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289812676 XXXX 1709289812676, Thread 1059: XXXX 1709289812676, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289812677 XXXX 1709289812677, Thread 1059: XXXX 1709289812677, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289812776 XXXX 1709289812776, Thread 1059: XXXX 1709289812776, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289812777 XXXX 1709289812777, Thread 1059: XXXX 1709289812777, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289812877 XXXX 1709289812877, Thread 1059: XXXX 1709289812877, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289812878 XXXX 1709289812878, Thread 1059: XXXX 1709289812878, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289812979 XXXX 1709289812979, Thread 1059: XXXX 1709289812979, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289812980 XXXX 1709289812980, Thread 1059: XXXX 1709289812980, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289813079 XXXX 1709289813079, Thread 1059: XXXX 1709289813079, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289813080 XXXX 1709289813080, Thread 1059: XXXX 1709289813080, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289813181 XXXX 1709289813181, Thread 1059: XXXX 1709289813181, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289813181 XXXX 1709289813181, Thread 1059: XXXX 1709289813181, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289813281 XXXX 1709289813281, Thread 1059: XXXX 1709289813281, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289813282 XXXX 1709289813282, Thread 1059: XXXX 1709289813282, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289813382 XXXX 1709289813382, Thread 1059: XXXX 1709289813382, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289813383 XXXX 1709289813383, Thread 1059: XXXX 1709289813383, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289813483 XXXX 1709289813483, Thread 1059: XXXX 1709289813483, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289813484 XXXX 1709289813484, Thread 1059: XXXX 1709289813484, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289813584 XXXX 1709289813584, Thread 1059: XXXX 1709289813584, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289813585 XXXX 1709289813585, Thread 1059: XXXX 1709289813585, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289813686 XXXX 1709289813686, Thread 1059: XXXX 1709289813686, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289813687 XXXX 1709289813687, Thread 1059: XXXX 1709289813687, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289813786 XXXX 1709289813786, Thread 1059: XXXX 1709289813786, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289813787 XXXX 1709289813787, Thread 1059: XXXX 1709289813787, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289813888 XXXX 1709289813888, Thread 1059: XXXX 1709289813888, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289813888 XXXX 1709289813888, Thread 1059: XXXX 1709289813888, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289813988 XXXX 1709289813988, Thread 1059: XXXX 1709289813988, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289813989 XXXX 1709289813989, Thread 1059: XXXX 1709289813989, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289814089 XXXX 1709289814089, Thread 1059: XXXX 1709289814089, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289814090 XXXX 1709289814090, Thread 1059: XXXX 1709289814090, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289814190 XXXX 1709289814190, Thread 1059: XXXX 1709289814190, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289814191 XXXX 1709289814191, Thread 1059: XXXX 1709289814191, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289814290 XXXX 1709289814290, Thread 1059: XXXX 1709289814290, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289814291 XXXX 1709289814291, Thread 1059: XXXX 1709289814291, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289814393 XXXX 1709289814393, Thread 1059: XXXX 1709289814392, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289814394 XXXX 1709289814394, Thread 1059: XXXX 1709289814394, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289814494 XXXX 1709289814494, Thread 1059: XXXX 1709289814494, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289814495 XXXX 1709289814495, Thread 1059: XXXX 1709289814495, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289814594 XXXX 1709289814594, Thread 1059: XXXX 1709289814594, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289814594 XXXX 1709289814594, Thread 1059: XXXX 1709289814594, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289814694 XXXX 1709289814694, Thread 1059: XXXX 1709289814694, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289814695 XXXX 1709289814695, Thread 1059: XXXX 1709289814695, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289814796 XXXX 1709289814796, Thread 1059: XXXX 1709289814796, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289814797 XXXX 1709289814797, Thread 1059: XXXX 1709289814797, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289814897 XXXX 1709289814897, Thread 1059: XXXX 1709289814897, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289814898 XXXX 1709289814898, Thread 1059: XXXX 1709289814898, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289814999 XXXX 1709289814999, Thread 1059: XXXX 1709289814999, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289815000 XXXX 1709289815000, Thread 1059: XXXX 1709289815000, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289815101 XXXX 1709289815101, Thread 1059: XXXX 1709289815101, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289815102 XXXX 1709289815102, Thread 1059: XXXX 1709289815102, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289815201 XXXX 1709289815200, Thread 1059: XXXX 1709289815200, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289815202 XXXX 1709289815202, Thread 1059: XXXX 1709289815202, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289815302 XXXX 1709289815302, Thread 1059: XXXX 1709289815302, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289815302 XXXX 1709289815302, Thread 1059: XXXX 1709289815302, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289815404 XXXX 1709289815404, Thread 1059: XXXX 1709289815404, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289815405 XXXX 1709289815405, Thread 1059: XXXX 1709289815405, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289815506 XXXX 1709289815506, Thread 1059: XXXX 1709289815506, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289815508 XXXX 1709289815508, Thread 1059: XXXX 1709289815508, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289815609 XXXX 1709289815609, Thread 1059: XXXX 1709289815609, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289815610 XXXX 1709289815610, Thread 1059: XXXX 1709289815610, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289815710 XXXX 1709289815710, Thread 1059: XXXX 1709289815710, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289815711 XXXX 1709289815711, Thread 1059: XXXX 1709289815711, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289815811 XXXX 1709289815811, Thread 1059: XXXX 1709289815811, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289815813 XXXX 1709289815813, Thread 1059: XXXX 1709289815813, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289815911 XXXX 1709289815911, Thread 1059: XXXX 1709289815911, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289815912 XXXX 1709289815912, Thread 1059: XXXX 1709289815912, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289816012 XXXX 1709289816012, Thread 1059: XXXX 1709289816012, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289816013 XXXX 1709289816013, Thread 1059: XXXX 1709289816013, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289816114 XXXX 1709289816114, Thread 1059: XXXX 1709289816114, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289816115 XXXX 1709289816115, Thread 1059: XXXX 1709289816115, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289816216 XXXX 1709289816216, Thread 1059: XXXX 1709289816216, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289816216 XXXX 1709289816216, Thread 1059: XXXX 1709289816216, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289816318 XXXX 1709289816318, Thread 1059: XXXX 1709289816318, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289816319 XXXX 1709289816319, Thread 1059: XXXX 1709289816319, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289816419 XXXX 1709289816419, Thread 1059: XXXX 1709289816419, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289816421 XXXX 1709289816421, Thread 1059: XXXX 1709289816421, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289816520 XXXX 1709289816520, Thread 1059: XXXX 1709289816520, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289816521 XXXX 1709289816521, Thread 1059: XXXX 1709289816521, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289816623 XXXX 1709289816623, Thread 1059: XXXX 1709289816623, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289816624 XXXX 1709289816624, Thread 1059: XXXX 1709289816624, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289816724 XXXX 1709289816724, Thread 1059: XXXX 1709289816724, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289816725 XXXX 1709289816725, Thread 1059: XXXX 1709289816725, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289816824 XXXX 1709289816824, Thread 1059: XXXX 1709289816824, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289816825 XXXX 1709289816825, Thread 1059: XXXX 1709289816825, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289816927 XXXX 1709289816927, Thread 1059: XXXX 1709289816927, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289816928 XXXX 1709289816928, Thread 1059: XXXX 1709289816928, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289817027 XXXX 1709289817027, Thread 1059: XXXX 1709289817027, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289817028 XXXX 1709289817028, Thread 1059: XXXX 1709289817028, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289817129 XXXX 1709289817129, Thread 1059: XXXX 1709289817129, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289817130 XXXX 1709289817130, Thread 1059: XXXX 1709289817130, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289817230 XXXX 1709289817230, Thread 1059: XXXX 1709289817230, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289817231 XXXX 1709289817231, Thread 1059: XXXX 1709289817231, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289817331 XXXX 1709289817331, Thread 1059: XXXX 1709289817331, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289817331 XXXX 1709289817331, Thread 1059: XXXX 1709289817331, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289817433 XXXX 1709289817433, Thread 1059: XXXX 1709289817433, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289817434 XXXX 1709289817434, Thread 1059: XXXX 1709289817434, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289817532 XXXX 1709289817532, Thread 1059: XXXX 1709289817532, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289817533 XXXX 1709289817533, Thread 1059: XXXX 1709289817533, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289817633 XXXX 1709289817633, Thread 1059: XXXX 1709289817633, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289817633 XXXX 1709289817633, Thread 1059: XXXX 1709289817633, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289817734 XXXX 1709289817734, Thread 1059: XXXX 1709289817734, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289817735 XXXX 1709289817735, Thread 1059: XXXX 1709289817735, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289817835 XXXX 1709289817835, Thread 1059: XXXX 1709289817835, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289817835 XXXX 1709289817835, Thread 1059: XXXX 1709289817835, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289817936 XXXX 1709289817936, Thread 1059: XXXX 1709289817936, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289817937 XXXX 1709289817937, Thread 1059: XXXX 1709289817937, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289818036 XXXX 1709289818036, Thread 1059: XXXX 1709289818036, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289818037 XXXX 1709289818037, Thread 1059: XXXX 1709289818037, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289818137 XXXX 1709289818137, Thread 1059: XXXX 1709289818137, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289818138 XXXX 1709289818138, Thread 1059: XXXX 1709289818138, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289818237 XXXX 1709289818237, Thread 1059: XXXX 1709289818237, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289818238 XXXX 1709289818238, Thread 1059: XXXX 1709289818238, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289818339 XXXX 1709289818339, Thread 1059: XXXX 1709289818339, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289818340 XXXX 1709289818340, Thread 1059: XXXX 1709289818340, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289818441 XXXX 1709289818441, Thread 1059: XXXX 1709289818441, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289818442 XXXX 1709289818442, Thread 1059: XXXX 1709289818442, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289818541 XXXX 1709289818541, Thread 1059: XXXX 1709289818541, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289818542 XXXX 1709289818542, Thread 1059: XXXX 1709289818542, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289818643 XXXX 1709289818643, Thread 1059: XXXX 1709289818643, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289818644 XXXX 1709289818644, Thread 1059: XXXX 1709289818644, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289818744 XXXX 1709289818744, Thread 1059: XXXX 1709289818744, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289818745 XXXX 1709289818745, Thread 1059: XXXX 1709289818745, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289818846 XXXX 1709289818846, Thread 1059: XXXX 1709289818846, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289818847 XXXX 1709289818847, Thread 1059: XXXX 1709289818847, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289818947 XXXX 1709289818947, Thread 1059: XXXX 1709289818947, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289818948 XXXX 1709289818948, Thread 1059: XXXX 1709289818948, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289819047 XXXX 1709289819047, Thread 1059: XXXX 1709289819047, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289819048 XXXX 1709289819048, Thread 1059: XXXX 1709289819048, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289819150 XXXX 1709289819150, Thread 1059: XXXX 1709289819150, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289819151 XXXX 1709289819151, Thread 1059: XXXX 1709289819151, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289819251 XXXX 1709289819251, Thread 1059: XXXX 1709289819251, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289819252 XXXX 1709289819252, Thread 1059: XXXX 1709289819252, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289819353 XXXX 1709289819353, Thread 1059: XXXX 1709289819353, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289819354 XXXX 1709289819354, Thread 1059: XXXX 1709289819354, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289819453 XXXX 1709289819453, Thread 1059: XXXX 1709289819453, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289819454 XXXX 1709289819454, Thread 1059: XXXX 1709289819454, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289819554 XXXX 1709289819554, Thread 1059: XXXX 1709289819554, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289819554 XXXX 1709289819554, Thread 1059: XXXX 1709289819554, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289819656 XXXX 1709289819656, Thread 1059: XXXX 1709289819656, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289819657 XXXX 1709289819657, Thread 1059: XXXX 1709289819657, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289819756 XXXX 1709289819756, Thread 1059: XXXX 1709289819756, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289819757 XXXX 1709289819757, Thread 1059: XXXX 1709289819757, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289819857 XXXX 1709289819857, Thread 1059: XXXX 1709289819857, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289819858 XXXX 1709289819858, Thread 1059: XXXX 1709289819858, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289819958 XXXX 1709289819958, Thread 1059: XXXX 1709289819958, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289819958 XXXX 1709289819958, Thread 1059: XXXX 1709289819958, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289820059 XXXX 1709289820059, Thread 1059: XXXX 1709289820059, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289820060 XXXX 1709289820060, Thread 1059: XXXX 1709289820060, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289820159 XXXX 1709289820159, Thread 1059: XXXX 1709289820159, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289820160 XXXX 1709289820160, Thread 1059: XXXX 1709289820160, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289820261 XXXX 1709289820261, Thread 1059: XXXX 1709289820261, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289820261 XXXX 1709289820261, Thread 1059: XXXX 1709289820261, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289820362 XXXX 1709289820362, Thread 1059: XXXX 1709289820362, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289820363 XXXX 1709289820363, Thread 1059: XXXX 1709289820363, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289820463 XXXX 1709289820463, Thread 1059: XXXX 1709289820463, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289820463 XXXX 1709289820463, Thread 1059: XXXX 1709289820463, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289820564 XXXX 1709289820564, Thread 1059: XXXX 1709289820564, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289820565 XXXX 1709289820565, Thread 1059: XXXX 1709289820565, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289820664 XXXX 1709289820664, Thread 1059: XXXX 1709289820664, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289820665 XXXX 1709289820665, Thread 1059: XXXX 1709289820665, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289820767 XXXX 1709289820767, Thread 1059: XXXX 1709289820767, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289820768 XXXX 1709289820768, Thread 1059: XXXX 1709289820768, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289820869 XXXX 1709289820869, Thread 1059: XXXX 1709289820869, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289820870 XXXX 1709289820870, Thread 1059: XXXX 1709289820870, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289820970 XXXX 1709289820970, Thread 1059: XXXX 1709289820970, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289820971 XXXX 1709289820971, Thread 1059: XXXX 1709289820971, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289821071 XXXX 1709289821071, Thread 1059: XXXX 1709289821071, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289821072 XXXX 1709289821072, Thread 1059: XXXX 1709289821072, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289821171 XXXX 1709289821171, Thread 1059: XXXX 1709289821171, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289821172 XXXX 1709289821172, Thread 1059: XXXX 1709289821172, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289821273 XXXX 1709289821273, Thread 1059: XXXX 1709289821273, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289821274 XXXX 1709289821274, Thread 1059: XXXX 1709289821274, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289821373 XXXX 1709289821373, Thread 1059: XXXX 1709289821373, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289821374 XXXX 1709289821374, Thread 1059: XXXX 1709289821374, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289821475 XXXX 1709289821475, Thread 1059: XXXX 1709289821475, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289821476 XXXX 1709289821476, Thread 1059: XXXX 1709289821476, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289821577 XXXX 1709289821577, Thread 1059: XXXX 1709289821577, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289821578 XXXX 1709289821578, Thread 1059: XXXX 1709289821578, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289821678 XXXX 1709289821678, Thread 1059: XXXX 1709289821678, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289821678 XXXX 1709289821678, Thread 1059: XXXX 1709289821678, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289821779 XXXX 1709289821779, Thread 1059: XXXX 1709289821779, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289821780 XXXX 1709289821780, Thread 1059: XXXX 1709289821780, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289821880 XXXX 1709289821880, Thread 1059: XXXX 1709289821880, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289821881 XXXX 1709289821881, Thread 1059: XXXX 1709289821881, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289821980 XXXX 1709289821980, Thread 1059: XXXX 1709289821980, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289821982 XXXX 1709289821982, Thread 1059: XXXX 1709289821982, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289822082 XXXX 1709289822082, Thread 1059: XXXX 1709289822082, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289822084 XXXX 1709289822084, Thread 1059: XXXX 1709289822084, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289822184 XXXX 1709289822184, Thread 1059: XXXX 1709289822184, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289822185 XXXX 1709289822185, Thread 1059: XXXX 1709289822185, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289822286 XXXX 1709289822286, Thread 1059: XXXX 1709289822286, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289822287 XXXX 1709289822287, Thread 1059: XXXX 1709289822287, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289822387 XXXX 1709289822387, Thread 1059: XXXX 1709289822387, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289822387 XXXX 1709289822387, Thread 1059: XXXX 1709289822387, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289822489 XXXX 1709289822489, Thread 1059: XXXX 1709289822489, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289822491 XXXX 1709289822491, Thread 1059: XXXX 1709289822491, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289822592 XXXX 1709289822592, Thread 1059: XXXX 1709289822592, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289822593 XXXX 1709289822593, Thread 1059: XXXX 1709289822593, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289822693 XXXX 1709289822693, Thread 1059: XXXX 1709289822693, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289822694 XXXX 1709289822694, Thread 1059: XXXX 1709289822694, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289822794 XXXX 1709289822794, Thread 1059: XXXX 1709289822794, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289822795 XXXX 1709289822795, Thread 1059: XXXX 1709289822795, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289822895 XXXX 1709289822895, Thread 1059: XXXX 1709289822895, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289822895 XXXX 1709289822895, Thread 1059: XXXX 1709289822895, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289822996 XXXX 1709289822996, Thread 1059: XXXX 1709289822996, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289822997 XXXX 1709289822997, Thread 1059: XXXX 1709289822997, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289823098 XXXX 1709289823098, Thread 1059: XXXX 1709289823098, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289823099 XXXX 1709289823099, Thread 1059: XXXX 1709289823099, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289823199 XXXX 1709289823199, Thread 1059: XXXX 1709289823199, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289823200 XXXX 1709289823200, Thread 1059: XXXX 1709289823200, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289823301 XXXX 1709289823301, Thread 1059: XXXX 1709289823301, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289823302 XXXX 1709289823302, Thread 1059: XXXX 1709289823302, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289823401 XXXX 1709289823401, Thread 1059: XXXX 1709289823401, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289823402 XXXX 1709289823402, Thread 1059: XXXX 1709289823402, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289823503 XXXX 1709289823503, Thread 1059: XXXX 1709289823503, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289823504 XXXX 1709289823504, Thread 1059: XXXX 1709289823504, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289823605 XXXX 1709289823605, Thread 1059: XXXX 1709289823605, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289823606 XXXX 1709289823606, Thread 1059: XXXX 1709289823606, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289823705 XXXX 1709289823705, Thread 1059: XXXX 1709289823705, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289823705 XXXX 1709289823705, Thread 1059: XXXX 1709289823705, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289823806 XXXX 1709289823806, Thread 1059: XXXX 1709289823806, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289823807 XXXX 1709289823807, Thread 1059: XXXX 1709289823807, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289823906 XXXX 1709289823906, Thread 1059: XXXX 1709289823906, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289823906 XXXX 1709289823906, Thread 1059: XXXX 1709289823906, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289824009 XXXX 1709289824009, Thread 1059: XXXX 1709289824009, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289824010 XXXX 1709289824010, Thread 1059: XXXX 1709289824010, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289824110 XXXX 1709289824110, Thread 1059: XXXX 1709289824110, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289824111 XXXX 1709289824111, Thread 1059: XXXX 1709289824111, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289824211 XXXX 1709289824211, Thread 1059: XXXX 1709289824210, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289824212 XXXX 1709289824212, Thread 1059: XXXX 1709289824212, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289824313 XXXX 1709289824313, Thread 1059: XXXX 1709289824312, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289824314 XXXX 1709289824314, Thread 1059: XXXX 1709289824314, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289824413 XXXX 1709289824413, Thread 1059: XXXX 1709289824413, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289824414 XXXX 1709289824414, Thread 1059: XXXX 1709289824414, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289824514 XXXX 1709289824514, Thread 1059: XXXX 1709289824514, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289824515 XXXX 1709289824515, Thread 1059: XXXX 1709289824515, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289824614 XXXX 1709289824614, Thread 1059: XXXX 1709289824614, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289824615 XXXX 1709289824615, Thread 1059: XXXX 1709289824615, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289824716 XXXX 1709289824716, Thread 1059: XXXX 1709289824716, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289824717 XXXX 1709289824717, Thread 1059: XXXX 1709289824717, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289824816 XXXX 1709289824816, Thread 1059: XXXX 1709289824816, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289824817 XXXX 1709289824817, Thread 1059: XXXX 1709289824817, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289824917 XXXX 1709289824917, Thread 1059: XXXX 1709289824917, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289824917 XXXX 1709289824917, Thread 1059: XXXX 1709289824917, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289825018 XXXX 1709289825018, Thread 1059: XXXX 1709289825018, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289825019 XXXX 1709289825019, Thread 1059: XXXX 1709289825019, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289825118 XXXX 1709289825118, Thread 1059: XXXX 1709289825118, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289825119 XXXX 1709289825119, Thread 1059: XXXX 1709289825119, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289825219 XXXX 1709289825219, Thread 1059: XXXX 1709289825219, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289825220 XXXX 1709289825220, Thread 1059: XXXX 1709289825220, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289825320 XXXX 1709289825320, Thread 1059: XXXX 1709289825319, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289825320 XXXX 1709289825320, Thread 1059: XXXX 1709289825320, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289825421 XXXX 1709289825421, Thread 1059: XXXX 1709289825421, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289825422 XXXX 1709289825422, Thread 1059: XXXX 1709289825422, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289825522 XXXX 1709289825522, Thread 1059: XXXX 1709289825522, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289825523 XXXX 1709289825523, Thread 1059: XXXX 1709289825523, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289825623 XXXX 1709289825623, Thread 1059: XXXX 1709289825623, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289825625 XXXX 1709289825625, Thread 1059: XXXX 1709289825625, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289825725 XXXX 1709289825725, Thread 1059: XXXX 1709289825725, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289825726 XXXX 1709289825726, Thread 1059: XXXX 1709289825726, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289825825 XXXX 1709289825825, Thread 1059: XXXX 1709289825825, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289825825 XXXX 1709289825825, Thread 1059: XXXX 1709289825825, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289825927 XXXX 1709289825927, Thread 1059: XXXX 1709289825927, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289825928 XXXX 1709289825928, Thread 1059: XXXX 1709289825928, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289826028 XXXX 1709289826028, Thread 1059: XXXX 1709289826028, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289826029 XXXX 1709289826029, Thread 1059: XXXX 1709289826029, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289826128 XXXX 1709289826128, Thread 1059: XXXX 1709289826128, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289826129 XXXX 1709289826129, Thread 1059: XXXX 1709289826129, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289826229 XXXX 1709289826229, Thread 1059: XXXX 1709289826229, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289826230 XXXX 1709289826230, Thread 1059: XXXX 1709289826230, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289826330 XXXX 1709289826330, Thread 1059: XXXX 1709289826330, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289826331 XXXX 1709289826331, Thread 1059: XXXX 1709289826331, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289826430 XXXX 1709289826430, Thread 1059: XXXX 1709289826430, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289826430 XXXX 1709289826430, Thread 1059: XXXX 1709289826430, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289826532 XXXX 1709289826531, Thread 1059: XXXX 1709289826531, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289826533 XXXX 1709289826533, Thread 1059: XXXX 1709289826533, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289826632 XXXX 1709289826632, Thread 1059: XXXX 1709289826632, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289826633 XXXX 1709289826633, Thread 1059: XXXX 1709289826633, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289826734 XXXX 1709289826734, Thread 1059: XXXX 1709289826734, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289826735 XXXX 1709289826735, Thread 1059: XXXX 1709289826735, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289826835 XXXX 1709289826835, Thread 1059: XXXX 1709289826835, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289826836 XXXX 1709289826836, Thread 1059: XXXX 1709289826836, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289826936 XXXX 1709289826936, Thread 1059: XXXX 1709289826936, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289826937 XXXX 1709289826937, Thread 1059: XXXX 1709289826937, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289827037 XXXX 1709289827037, Thread 1059: XXXX 1709289827037, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289827038 XXXX 1709289827038, Thread 1059: XXXX 1709289827038, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289827138 XXXX 1709289827138, Thread 1059: XXXX 1709289827138, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289827138 XXXX 1709289827138, Thread 1059: XXXX 1709289827138, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289827240 XXXX 1709289827240, Thread 1059: XXXX 1709289827240, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289827241 XXXX 1709289827241, Thread 1059: XXXX 1709289827241, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289827341 XXXX 1709289827341, Thread 1059: XXXX 1709289827341, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289827342 XXXX 1709289827342, Thread 1059: XXXX 1709289827342, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289827442 XXXX 1709289827442, Thread 1059: XXXX 1709289827442, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289827443 XXXX 1709289827443, Thread 1059: XXXX 1709289827443, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289827543 XXXX 1709289827543, Thread 1059: XXXX 1709289827543, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289827545 XXXX 1709289827545, Thread 1059: XXXX 1709289827544, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289827645 XXXX 1709289827645, Thread 1059: XXXX 1709289827645, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289827646 XXXX 1709289827646, Thread 1059: XXXX 1709289827646, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289827745 XXXX 1709289827745, Thread 1059: XXXX 1709289827745, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289827746 XXXX 1709289827746, Thread 1059: XXXX 1709289827746, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289827845 XXXX 1709289827845, Thread 1059: XXXX 1709289827845, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289827845 XXXX 1709289827845, Thread 1059: XXXX 1709289827845, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289827947 XXXX 1709289827947, Thread 1059: XXXX 1709289827947, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289827948 XXXX 1709289827948, Thread 1059: XXXX 1709289827948, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289828047 XXXX 1709289828047, Thread 1059: XXXX 1709289828047, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289828048 XXXX 1709289828048, Thread 1059: XXXX 1709289828048, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289828149 XXXX 1709289828149, Thread 1059: XXXX 1709289828149, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289828150 XXXX 1709289828150, Thread 1059: XXXX 1709289828150, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289828252 XXXX 1709289828252, Thread 1059: XXXX 1709289828252, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289828253 XXXX 1709289828253, Thread 1059: XXXX 1709289828253, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289828353 XXXX 1709289828353, Thread 1059: XXXX 1709289828353, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289828354 XXXX 1709289828354, Thread 1059: XXXX 1709289828354, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289828454 XXXX 1709289828454, Thread 1059: XXXX 1709289828454, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289828455 XXXX 1709289828455, Thread 1059: XXXX 1709289828455, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289828555 XXXX 1709289828555, Thread 1059: XXXX 1709289828555, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289828556 XXXX 1709289828556, Thread 1059: XXXX 1709289828556, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289828656 XXXX 1709289828656, Thread 1059: XXXX 1709289828656, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289828657 XXXX 1709289828657, Thread 1059: XXXX 1709289828657, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289828758 XXXX 1709289828758, Thread 1059: XXXX 1709289828758, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289828758 XXXX 1709289828758, Thread 1059: XXXX 1709289828758, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289828858 XXXX 1709289828858, Thread 1059: XXXX 1709289828858, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289828859 XXXX 1709289828859, Thread 1059: XXXX 1709289828859, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289828959 XXXX 1709289828959, Thread 1059: XXXX 1709289828959, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289828960 XXXX 1709289828960, Thread 1059: XXXX 1709289828960, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289829059 XXXX 1709289829059, Thread 1059: XXXX 1709289829059, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289829059 XXXX 1709289829059, Thread 1059: XXXX 1709289829059, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289829160 XXXX 1709289829160, Thread 1059: XXXX 1709289829160, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289829161 XXXX 1709289829161, Thread 1059: XXXX 1709289829161, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289829260 XXXX 1709289829260, Thread 1059: XXXX 1709289829260, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289829261 XXXX 1709289829261, Thread 1059: XXXX 1709289829261, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289829361 XXXX 1709289829361, Thread 1059: XXXX 1709289829361, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289829362 XXXX 1709289829362, Thread 1059: XXXX 1709289829362, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289829462 XXXX 1709289829462, Thread 1059: XXXX 1709289829462, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289829463 XXXX 1709289829463, Thread 1059: XXXX 1709289829463, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289829563 XXXX 1709289829563, Thread 1059: XXXX 1709289829563, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289829563 XXXX 1709289829563, Thread 1059: XXXX 1709289829563, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289829664 XXXX 1709289829664, Thread 1059: XXXX 1709289829664, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289829665 XXXX 1709289829665, Thread 1059: XXXX 1709289829665, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289829764 XXXX 1709289829764, Thread 1059: XXXX 1709289829764, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289829764 XXXX 1709289829764, Thread 1059: XXXX 1709289829764, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289829865 XXXX 1709289829865, Thread 1059: XXXX 1709289829865, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289829866 XXXX 1709289829866, Thread 1059: XXXX 1709289829866, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289829966 XXXX 1709289829966, Thread 1059: XXXX 1709289829966, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289829967 XXXX 1709289829967, Thread 1059: XXXX 1709289829967, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289830066 XXXX 1709289830066, Thread 1059: XXXX 1709289830066, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289830067 XXXX 1709289830067, Thread 1059: XXXX 1709289830067, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289830167 XXXX 1709289830167, Thread 1059: XXXX 1709289830167, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289830168 XXXX 1709289830168, Thread 1059: XXXX 1709289830168, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289830267 XXXX 1709289830267, Thread 1059: XXXX 1709289830267, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289830267 XXXX 1709289830267, Thread 1059: XXXX 1709289830267, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289830369 XXXX 1709289830369, Thread 1059: XXXX 1709289830369, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289830370 XXXX 1709289830370, Thread 1059: XXXX 1709289830370, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289830470 XXXX 1709289830470, Thread 1059: XXXX 1709289830470, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289830471 XXXX 1709289830471, Thread 1059: XXXX 1709289830471, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289830572 XXXX 1709289830572, Thread 1059: XXXX 1709289830572, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289830573 XXXX 1709289830573, Thread 1059: XXXX 1709289830573, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289830674 XXXX 1709289830674, Thread 1059: XXXX 1709289830674, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289830675 XXXX 1709289830675, Thread 1059: XXXX 1709289830675, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289830774 XXXX 1709289830774, Thread 1059: XXXX 1709289830774, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289830775 XXXX 1709289830775, Thread 1059: XXXX 1709289830775, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289830875 XXXX 1709289830875, Thread 1059: XXXX 1709289830874, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289830876 XXXX 1709289830876, Thread 1059: XXXX 1709289830876, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289830976 XXXX 1709289830976, Thread 1059: XXXX 1709289830976, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289830976 XXXX 1709289830976, Thread 1059: XXXX 1709289830976, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289831078 XXXX 1709289831078, Thread 1059: XXXX 1709289831078, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289831079 XXXX 1709289831079, Thread 1059: XXXX 1709289831079, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289831179 XXXX 1709289831179, Thread 1059: XXXX 1709289831179, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289831180 XXXX 1709289831180, Thread 1059: XXXX 1709289831180, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289831281 XXXX 1709289831281, Thread 1059: XXXX 1709289831281, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289831282 XXXX 1709289831282, Thread 1059: XXXX 1709289831282, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289831383 XXXX 1709289831383, Thread 1059: XXXX 1709289831383, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289831384 XXXX 1709289831384, Thread 1059: XXXX 1709289831384, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289831484 XXXX 1709289831484, Thread 1059: XXXX 1709289831484, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289831485 XXXX 1709289831485, Thread 1059: XXXX 1709289831485, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289831586 XXXX 1709289831586, Thread 1059: XXXX 1709289831586, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289831587 XXXX 1709289831587, Thread 1059: XXXX 1709289831587, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289831687 XXXX 1709289831687, Thread 1059: XXXX 1709289831687, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289831687 XXXX 1709289831687, Thread 1059: XXXX 1709289831687, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289831787 XXXX 1709289831787, Thread 1059: XXXX 1709289831787, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289831788 XXXX 1709289831788, Thread 1059: XXXX 1709289831788, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289831888 XXXX 1709289831888, Thread 1059: XXXX 1709289831888, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289831889 XXXX 1709289831889, Thread 1059: XXXX 1709289831889, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289831989 XXXX 1709289831989, Thread 1059: XXXX 1709289831989, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289831990 XXXX 1709289831990, Thread 1059: XXXX 1709289831990, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289832090 XXXX 1709289832090, Thread 1059: XXXX 1709289832090, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289832091 XXXX 1709289832091, Thread 1059: XXXX 1709289832091, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289832190 XXXX 1709289832190, Thread 1059: XXXX 1709289832190, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289832190 XXXX 1709289832190, Thread 1059: XXXX 1709289832190, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289832291 XXXX 1709289832291, Thread 1059: XXXX 1709289832291, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289832292 XXXX 1709289832292, Thread 1059: XXXX 1709289832292, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289832391 XXXX 1709289832391, Thread 1059: XXXX 1709289832391, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289832392 XXXX 1709289832392, Thread 1059: XXXX 1709289832392, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289832492 XXXX 1709289832492, Thread 1059: XXXX 1709289832492, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289832493 XXXX 1709289832493, Thread 1059: XXXX 1709289832493, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289832593 XXXX 1709289832593, Thread 1059: XXXX 1709289832593, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289832594 XXXX 1709289832594, Thread 1059: XXXX 1709289832594, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289832694 XXXX 1709289832694, Thread 1059: XXXX 1709289832694, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289832695 XXXX 1709289832695, Thread 1059: XXXX 1709289832695, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289832795 XXXX 1709289832795, Thread 1059: XXXX 1709289832795, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289832796 XXXX 1709289832796, Thread 1059: XXXX 1709289832796, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289832895 XXXX 1709289832895, Thread 1059: XXXX 1709289832895, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289832895 XXXX 1709289832895, Thread 1059: XXXX 1709289832895, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289832996 XXXX 1709289832996, Thread 1059: XXXX 1709289832996, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289832997 XXXX 1709289832997, Thread 1059: XXXX 1709289832997, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289833097 XXXX 1709289833097, Thread 1059: XXXX 1709289833097, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289833098 XXXX 1709289833098, Thread 1059: XXXX 1709289833098, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289833198 XXXX 1709289833198, Thread 1059: XXXX 1709289833198, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289833199 XXXX 1709289833199, Thread 1059: XXXX 1709289833199, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289833300 XXXX 1709289833300, Thread 1059: XXXX 1709289833300, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289833300 XXXX 1709289833300, Thread 1059: XXXX 1709289833300, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289833401 XXXX 1709289833401, Thread 1059: XXXX 1709289833401, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289833402 XXXX 1709289833402, Thread 1059: XXXX 1709289833402, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289833502 XXXX 1709289833502, Thread 1059: XXXX 1709289833502, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289833504 XXXX 1709289833504, Thread 1059: XXXX 1709289833504, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289833605 XXXX 1709289833605, Thread 1059: XXXX 1709289833605, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289833606 XXXX 1709289833606, Thread 1059: XXXX 1709289833606, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289833706 XXXX 1709289833706, Thread 1059: XXXX 1709289833706, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289833707 XXXX 1709289833707, Thread 1059: XXXX 1709289833707, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289833808 XXXX 1709289833808, Thread 1059: XXXX 1709289833807, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289833808 XXXX 1709289833808, Thread 1059: XXXX 1709289833808, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289833908 XXXX 1709289833908, Thread 1059: XXXX 1709289833908, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289833909 XXXX 1709289833909, Thread 1059: XXXX 1709289833909, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289834010 XXXX 1709289834010, Thread 1059: XXXX 1709289834010, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289834011 XXXX 1709289834011, Thread 1059: XXXX 1709289834011, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289834111 XXXX 1709289834111, Thread 1059: XXXX 1709289834111, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289834112 XXXX 1709289834112, Thread 1059: XXXX 1709289834112, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289834212 XXXX 1709289834212, Thread 1059: XXXX 1709289834212, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289834214 XXXX 1709289834214, Thread 1059: XXXX 1709289834214, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289834315 XXXX 1709289834315, Thread 1059: XXXX 1709289834315, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289834316 XXXX 1709289834316, Thread 1059: XXXX 1709289834316, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289834416 XXXX 1709289834416, Thread 1059: XXXX 1709289834416, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289834417 XXXX 1709289834417, Thread 1059: XXXX 1709289834417, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289834518 XXXX 1709289834518, Thread 1059: XXXX 1709289834518, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289834519 XXXX 1709289834519, Thread 1059: XXXX 1709289834518, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289834618 XXXX 1709289834618, Thread 1059: XXXX 1709289834618, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289834618 XXXX 1709289834618, Thread 1059: XXXX 1709289834618, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289834719 XXXX 1709289834719, Thread 1059: XXXX 1709289834719, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289834720 XXXX 1709289834720, Thread 1059: XXXX 1709289834720, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289834819 XXXX 1709289834819, Thread 1059: XXXX 1709289834819, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289834819 XXXX 1709289834819, Thread 1059: XXXX 1709289834819, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289834921 XXXX 1709289834921, Thread 1059: XXXX 1709289834921, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289834922 XXXX 1709289834922, Thread 1059: XXXX 1709289834922, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289835022 XXXX 1709289835022, Thread 1059: XXXX 1709289835022, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289835023 XXXX 1709289835023, Thread 1059: XXXX 1709289835023, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289835123 XXXX 1709289835123, Thread 1059: XXXX 1709289835123, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289835124 XXXX 1709289835124, Thread 1059: XXXX 1709289835124, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289835224 XXXX 1709289835224, Thread 1059: XXXX 1709289835224, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289835225 XXXX 1709289835225, Thread 1059: XXXX 1709289835225, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289835324 XXXX 1709289835324, Thread 1059: XXXX 1709289835324, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289835324 XXXX 1709289835324, Thread 1059: XXXX 1709289835324, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289835425 XXXX 1709289835425, Thread 1059: XXXX 1709289835425, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289835426 XXXX 1709289835426, Thread 1059: XXXX 1709289835426, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289835526 XXXX 1709289835526, Thread 1059: XXXX 1709289835526, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289835527 XXXX 1709289835527, Thread 1059: XXXX 1709289835527, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289835627 XXXX 1709289835627, Thread 1059: XXXX 1709289835627, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289835628 XXXX 1709289835628, Thread 1059: XXXX 1709289835628, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289835728 XXXX 1709289835728, Thread 1059: XXXX 1709289835728, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289835729 XXXX 1709289835729, Thread 1059: XXXX 1709289835729, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289835828 XXXX 1709289835828, Thread 1059: XXXX 1709289835828, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289835828 XXXX 1709289835828, Thread 1059: XXXX 1709289835828, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289835929 XXXX 1709289835929, Thread 1059: XXXX 1709289835929, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289835930 XXXX 1709289835930, Thread 1059: XXXX 1709289835930, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289836030 XXXX 1709289836030, Thread 1059: XXXX 1709289836030, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289836031 XXXX 1709289836031, Thread 1059: XXXX 1709289836031, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289836131 XXXX 1709289836131, Thread 1059: XXXX 1709289836131, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289836132 XXXX 1709289836132, Thread 1059: XXXX 1709289836132, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289836232 XXXX 1709289836232, Thread 1059: XXXX 1709289836232, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289836233 XXXX 1709289836233, Thread 1059: XXXX 1709289836233, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289836333 XXXX 1709289836333, Thread 1059: XXXX 1709289836333, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289836334 XXXX 1709289836334, Thread 1059: XXXX 1709289836334, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289836434 XXXX 1709289836434, Thread 1059: XXXX 1709289836434, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289836435 XXXX 1709289836435, Thread 1059: XXXX 1709289836435, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289836535 XXXX 1709289836535, Thread 1059: XXXX 1709289836535, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289836536 XXXX 1709289836536, Thread 1059: XXXX 1709289836536, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289836636 XXXX 1709289836636, Thread 1059: XXXX 1709289836636, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289836637 XXXX 1709289836637, Thread 1059: XXXX 1709289836637, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289836737 XXXX 1709289836737, Thread 1059: XXXX 1709289836737, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289836738 XXXX 1709289836738, Thread 1059: XXXX 1709289836738, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289836839 XXXX 1709289836839, Thread 1059: XXXX 1709289836839, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289836840 XXXX 1709289836840, Thread 1059: XXXX 1709289836840, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289836939 XXXX 1709289836939, Thread 1059: XXXX 1709289836939, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289836939 XXXX 1709289836939, Thread 1059: XXXX 1709289836939, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289837040 XXXX 1709289837040, Thread 1059: XXXX 1709289837040, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289837041 XXXX 1709289837041, Thread 1059: XXXX 1709289837041, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289837141 XXXX 1709289837141, Thread 1059: XXXX 1709289837141, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289837142 XXXX 1709289837142, Thread 1059: XXXX 1709289837142, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289837241 XXXX 1709289837241, Thread 1059: XXXX 1709289837241, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289837242 XXXX 1709289837242, Thread 1059: XXXX 1709289837242, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289837342 XXXX 1709289837342, Thread 1059: XXXX 1709289837342, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289837343 XXXX 1709289837343, Thread 1059: XXXX 1709289837343, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289837443 XXXX 1709289837443, Thread 1059: XXXX 1709289837443, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289837443 XXXX 1709289837443, Thread 1059: XXXX 1709289837443, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289837544 XXXX 1709289837544, Thread 1059: XXXX 1709289837544, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289837545 XXXX 1709289837545, Thread 1059: XXXX 1709289837545, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289837645 XXXX 1709289837645, Thread 1059: XXXX 1709289837645, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289837646 XXXX 1709289837646, Thread 1059: XXXX 1709289837646, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289837745 XXXX 1709289837745, Thread 1059: XXXX 1709289837745, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289837746 XXXX 1709289837746, Thread 1059: XXXX 1709289837746, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289837846 XXXX 1709289837846, Thread 1059: XXXX 1709289837846, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289837847 XXXX 1709289837847, Thread 1059: XXXX 1709289837847, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289837947 XXXX 1709289837947, Thread 1059: XXXX 1709289837947, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289837948 XXXX 1709289837948, Thread 1059: XXXX 1709289837948, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289838048 XXXX 1709289838048, Thread 1059: XXXX 1709289838048, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289838049 XXXX 1709289838049, Thread 1059: XXXX 1709289838049, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289838148 XXXX 1709289838148, Thread 1059: XXXX 1709289838148, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289838148 XXXX 1709289838148, Thread 1059: XXXX 1709289838148, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289838249 XXXX 1709289838249, Thread 1059: XXXX 1709289838249, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289838250 XXXX 1709289838250, Thread 1059: XXXX 1709289838250, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289838350 XXXX 1709289838350, Thread 1059: XXXX 1709289838350, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289838351 XXXX 1709289838351, Thread 1059: XXXX 1709289838351, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289838450 XXXX 1709289838450, Thread 1059: XXXX 1709289838450, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289838451 XXXX 1709289838451, Thread 1059: XXXX 1709289838451, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289838551 XXXX 1709289838551, Thread 1059: XXXX 1709289838551, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289838552 XXXX 1709289838552, Thread 1059: XXXX 1709289838552, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289838652 XXXX 1709289838652, Thread 1059: XXXX 1709289838652, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289838653 XXXX 1709289838653, Thread 1059: XXXX 1709289838653, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289838753 XXXX 1709289838753, Thread 1059: XXXX 1709289838753, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289838754 XXXX 1709289838754, Thread 1059: XXXX 1709289838754, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289838854 XXXX 1709289838854, Thread 1059: XXXX 1709289838854, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289838855 XXXX 1709289838855, Thread 1059: XXXX 1709289838855, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289838955 XXXX 1709289838955, Thread 1059: XXXX 1709289838955, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289838956 XXXX 1709289838956, Thread 1059: XXXX 1709289838956, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289839057 XXXX 1709289839057, Thread 1059: XXXX 1709289839057, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289839057 XXXX 1709289839057, Thread 1059: XXXX 1709289839057, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289839158 XXXX 1709289839158, Thread 1059: XXXX 1709289839158, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289839159 XXXX 1709289839159, Thread 1059: XXXX 1709289839159, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289839260 XXXX 1709289839260, Thread 1059: XXXX 1709289839259, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289839261 XXXX 1709289839261, Thread 1059: XXXX 1709289839261, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289839362 XXXX 1709289839362, Thread 1059: XXXX 1709289839362, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289839363 XXXX 1709289839363, Thread 1059: XXXX 1709289839363, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289839463 XXXX 1709289839463, Thread 1059: XXXX 1709289839463, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289839464 XXXX 1709289839464, Thread 1059: XXXX 1709289839464, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289839564 XXXX 1709289839564, Thread 1059: XXXX 1709289839564, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289839565 XXXX 1709289839565, Thread 1059: XXXX 1709289839565, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289839665 XXXX 1709289839665, Thread 1059: XXXX 1709289839665, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289839666 XXXX 1709289839666, Thread 1059: XXXX 1709289839666, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289839766 XXXX 1709289839766, Thread 1059: XXXX 1709289839766, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289839767 XXXX 1709289839767, Thread 1059: XXXX 1709289839767, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289839866 XXXX 1709289839866, Thread 1059: XXXX 1709289839866, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289839869 XXXX 1709289839869, Thread 1059: XXXX 1709289839869, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289839967 XXXX 1709289839967, Thread 1059: XXXX 1709289839967, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289839968 XXXX 1709289839968, Thread 1059: XXXX 1709289839968, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289840069 XXXX 1709289840069, Thread 1059: XXXX 1709289840068, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289840069 XXXX 1709289840069, Thread 1059: XXXX 1709289840069, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289840170 XXXX 1709289840170, Thread 1059: XXXX 1709289840169, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289840171 XXXX 1709289840171, Thread 1059: XXXX 1709289840171, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289840272 XXXX 1709289840272, Thread 1059: XXXX 1709289840272, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289840273 XXXX 1709289840273, Thread 1059: XXXX 1709289840273, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289840372 XXXX 1709289840372, Thread 1059: XXXX 1709289840372, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289840373 XXXX 1709289840373, Thread 1059: XXXX 1709289840373, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289840474 XXXX 1709289840474, Thread 1059: XXXX 1709289840474, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289840475 XXXX 1709289840475, Thread 1059: XXXX 1709289840475, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289840575 XXXX 1709289840575, Thread 1059: XXXX 1709289840575, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289840576 XXXX 1709289840576, Thread 1059: XXXX 1709289840576, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289840675 XXXX 1709289840675, Thread 1059: XXXX 1709289840675, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289840676 XXXX 1709289840676, Thread 1059: XXXX 1709289840676, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289840777 XXXX 1709289840777, Thread 1059: XXXX 1709289840777, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289840778 XXXX 1709289840778, Thread 1059: XXXX 1709289840777, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289840878 XXXX 1709289840878, Thread 1059: XXXX 1709289840878, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289840879 XXXX 1709289840879, Thread 1059: XXXX 1709289840879, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289840979 XXXX 1709289840979, Thread 1059: XXXX 1709289840979, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289840980 XXXX 1709289840980, Thread 1059: XXXX 1709289840980, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289841079 XXXX 1709289841079, Thread 1059: XXXX 1709289841079, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289841080 XXXX 1709289841080, Thread 1059: XXXX 1709289841080, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289841180 XXXX 1709289841180, Thread 1059: XXXX 1709289841180, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289841181 XXXX 1709289841181, Thread 1059: XXXX 1709289841181, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289841282 XXXX 1709289841282, Thread 1059: XXXX 1709289841282, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289841283 XXXX 1709289841283, Thread 1059: XXXX 1709289841283, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289841382 XXXX 1709289841382, Thread 1059: XXXX 1709289841382, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289841383 XXXX 1709289841383, Thread 1059: XXXX 1709289841383, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289841484 XXXX 1709289841484, Thread 1059: XXXX 1709289841484, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289841485 XXXX 1709289841485, Thread 1059: XXXX 1709289841485, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289841585 XXXX 1709289841585, Thread 1059: XXXX 1709289841585, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289841586 XXXX 1709289841586, Thread 1059: XXXX 1709289841586, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289841687 XXXX 1709289841687, Thread 1059: XXXX 1709289841687, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289841687 XXXX 1709289841687, Thread 1059: XXXX 1709289841687, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289841787 XXXX 1709289841787, Thread 1059: XXXX 1709289841787, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289841789 XXXX 1709289841789, Thread 1059: XXXX 1709289841789, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289841888 XXXX 1709289841888, Thread 1059: XXXX 1709289841888, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289841889 XXXX 1709289841889, Thread 1059: XXXX 1709289841889, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289841990 XXXX 1709289841990, Thread 1059: XXXX 1709289841990, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289841990 XXXX 1709289841990, Thread 1059: XXXX 1709289841990, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289842090 XXXX 1709289842090, Thread 1059: XXXX 1709289842090, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289842091 XXXX 1709289842091, Thread 1059: XXXX 1709289842091, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289842192 XXXX 1709289842192, Thread 1059: XXXX 1709289842192, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289842193 XXXX 1709289842193, Thread 1059: XXXX 1709289842193, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289842292 XXXX 1709289842292, Thread 1059: XXXX 1709289842292, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289842294 XXXX 1709289842294, Thread 1059: XXXX 1709289842294, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289842397 XXXX 1709289842397, Thread 1059: XXXX 1709289842397, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289842398 XXXX 1709289842398, Thread 1059: XXXX 1709289842398, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289842498 XXXX 1709289842498, Thread 1059: XXXX 1709289842498, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289842498 XXXX 1709289842498, Thread 1059: XXXX 1709289842498, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289842598 XXXX 1709289842598, Thread 1059: XXXX 1709289842598, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289842599 XXXX 1709289842599, Thread 1059: XXXX 1709289842599, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289842699 XXXX 1709289842699, Thread 1059: XXXX 1709289842699, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289842700 XXXX 1709289842700, Thread 1059: XXXX 1709289842700, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289842799 XXXX 1709289842799, Thread 1059: XXXX 1709289842799, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289842800 XXXX 1709289842800, Thread 1059: XXXX 1709289842800, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289842900 XXXX 1709289842900, Thread 1059: XXXX 1709289842900, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289842901 XXXX 1709289842901, Thread 1059: XXXX 1709289842901, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289843001 XXXX 1709289843001, Thread 1059: XXXX 1709289843001, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289843002 XXXX 1709289843002, Thread 1059: XXXX 1709289843002, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289843102 XXXX 1709289843102, Thread 1059: XXXX 1709289843102, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289843103 XXXX 1709289843103, Thread 1059: XXXX 1709289843103, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289843203 XXXX 1709289843203, Thread 1059: XXXX 1709289843203, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289843204 XXXX 1709289843204, Thread 1059: XXXX 1709289843204, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289843303 XXXX 1709289843303, Thread 1059: XXXX 1709289843303, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289843304 XXXX 1709289843304, Thread 1059: XXXX 1709289843304, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289843404 XXXX 1709289843404, Thread 1059: XXXX 1709289843404, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289843405 XXXX 1709289843405, Thread 1059: XXXX 1709289843405, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289843504 XXXX 1709289843504, Thread 1059: XXXX 1709289843504, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289843505 XXXX 1709289843505, Thread 1059: XXXX 1709289843505, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289843605 XXXX 1709289843605, Thread 1059: XXXX 1709289843605, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289843606 XXXX 1709289843606, Thread 1059: XXXX 1709289843606, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289843707 XXXX 1709289843707, Thread 1059: XXXX 1709289843707, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289843708 XXXX 1709289843708, Thread 1059: XXXX 1709289843708, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289843807 XXXX 1709289843807, Thread 1059: XXXX 1709289843807, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289843808 XXXX 1709289843808, Thread 1059: XXXX 1709289843808, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289843908 XXXX 1709289843908, Thread 1059: XXXX 1709289843908, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289843908 XXXX 1709289843908, Thread 1059: XXXX 1709289843908, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289844008 XXXX 1709289844008, Thread 1059: XXXX 1709289844008, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289844009 XXXX 1709289844009, Thread 1059: XXXX 1709289844009, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289844109 XXXX 1709289844109, Thread 1059: XXXX 1709289844109, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289844110 XXXX 1709289844110, Thread 1059: XXXX 1709289844110, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289844209 XXXX 1709289844209, Thread 1059: XXXX 1709289844209, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289844210 XXXX 1709289844210, Thread 1059: XXXX 1709289844210, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289844310 XXXX 1709289844310, Thread 1059: XXXX 1709289844310, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289844311 XXXX 1709289844311, Thread 1059: XXXX 1709289844311, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289844412 XXXX 1709289844412, Thread 1059: XXXX 1709289844412, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289844413 XXXX 1709289844413, Thread 1059: XXXX 1709289844413, Exiting Thread 1059: Commands::runScriptBasic  
+
+1059 1709289844454 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:HaltTarget
+1059 1709289844454 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1059 1709289844454 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 null
+1059 1709289844454 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1059 1709289844454 XXXX 1709289844454, Thread 1059: XXXX 1709289844454, Entering Thread 1059: Commands::runScriptBasic, script name = Halt, timeOut = -1 ms  
+1059 1709289844556 XXXX 1709289844556, Thread 1059: XXXX 1709289844556, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289844556 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:HaltTarget
+1059 1709289844556 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1059 1709289844556 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 true
+1059 1709289844556 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+1059 1709289844556 XXXX 1709289844556, Thread 1059: XXXX 1709289844556, Entering Thread 1059: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1059 1709289844557 XXXX 1709289844557, Thread 1059: XXXX 1709289844557, Exiting Thread 1059: Commands::runScriptBasic  
+
+1059 1709289844559 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:DebugWriteTargetMemory
+1059 1709289844559 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1059 1709289844559 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Emulation
+1059 1709289844559 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 fad
+1059 1709289844559 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 fb9
+1059 1709289844559 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Length = 13
+1059 1709289844559 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1059 1709289844559 XXXX 1709289844559, Thread 1059: XXXX 1709289844559, Entering Thread 1059: Commands::runScriptWithDownload, script name = WriteEmu  
+1059 1709289844563 XXXX 1709289844563, Thread 1059: XXXX 1709289844563, Exiting Thread 1059: Commands::runScriptWithDownload(WriteEmu)  
+1059 1709289844563 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:DebugWriteTargetMemory
+1059 1709289844563 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1059 1709289844563 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 true
+1059 1709289844563 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1059 1709289844563 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:GetPC
+1059 1709289844563 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1059 1709289844563 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 null
+1059 1709289844563 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1059 1709289844563 XXXX 1709289844563, Thread 1059: XXXX 1709289844563, Entering Thread 1059: Commands::runScriptBasic, script name = GetPC, timeOut = -1 ms  
+1059 1709289844565 XXXX 1709289844565, Thread 1059: XXXX 1709289844565, Exiting Thread 1059: Commands::runScriptBasic  
+1059 1709289844565 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:GetPC
+1059 1709289844565 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1059 1709289844565 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 218
+1059 1709289844565 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1014 1709289844565 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:GetPC
+1014 1709289844565 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1014 1709289844565 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 null
+1014 1709289844565 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1014 1709289844565 XXXX 1709289844565, Thread 1014: XXXX 1709289844565, Entering Thread 1014: Commands::runScriptBasic, script name = GetPC, timeOut = -1 ms  
+1014 1709289844567 XXXX 1709289844567, Thread 1014: XXXX 1709289844567, Exiting Thread 1014: Commands::runScriptBasic  
+1014 1709289844567 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:GetPC
+1014 1709289844567 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1014 1709289844567 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 218
+1014 1709289844567 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1014 1709289844568 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:DebugReadTargetMemory
+1014 1709289844568 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1014 1709289844568 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 FileRegs
+1014 1709289844568 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 eff
+1014 1709289844568 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 eff
+1014 1709289844568 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Length = 1
+1014 1709289844568 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1014 1709289844568 XXXX 1709289844568, Thread 1014: XXXX 1709289844568, Entering Thread 1014: Commands::runScriptWithUpload, script name = ReadRAM  
+1014 1709289844568 XXXX 1709289844568, Thread 1014: XXXX 1709289844568, Entering Thread 1014: ToolCommUsb::readTransfer, sideData is 0x25 bytes long, transferDataLength is 0x1 bytes long  
+1014 1709289844571 XXXX 1709289844571, Thread 1014: XXXX 1709289844571, Exiting Thread 1014: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1014 1709289844571 XXXX 1709289844571, Thread 1014: XXXX 1709289844571, Exiting Thread 1014: Commands::runScriptWithUpload  
+1014 1709289844571 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:DebugReadTargetMemory
+1014 1709289844571 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1014 1709289844571 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 true
+1014 1709289844571 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1014 1709289844571 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:DebugReadTargetMemory
+1014 1709289844571 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1014 1709289844571 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 FileRegs
+1014 1709289844571 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 eff
+1014 1709289844571 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 eff
+1014 1709289844571 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Length = 1
+1014 1709289844571 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1014 1709289844571 XXXX 1709289844571, Thread 1014: XXXX 1709289844571, Entering Thread 1014: Commands::runScriptWithUpload, script name = ReadRAM  
+1014 1709289844571 XXXX 1709289844571, Thread 1014: XXXX 1709289844571, Entering Thread 1014: ToolCommUsb::readTransfer, sideData is 0x25 bytes long, transferDataLength is 0x1 bytes long  
+1014 1709289844573 XXXX 1709289844573, Thread 1014: XXXX 1709289844573, Exiting Thread 1014: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1014 1709289844573 XXXX 1709289844573, Thread 1014: XXXX 1709289844573, Exiting Thread 1014: Commands::runScriptWithUpload  
+1014 1709289844573 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:DebugReadTargetMemory
+1014 1709289844573 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1014 1709289844573 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 true
+1014 1709289844573 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1014 1709289844574 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:DebugReadTargetMemory
+1014 1709289844574 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1014 1709289844574 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 FileRegs
+1014 1709289844574 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 efe
+1014 1709289844574 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 efe
+1014 1709289844574 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Length = 1
+1014 1709289844574 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1014 1709289844574 XXXX 1709289844574, Thread 1014: XXXX 1709289844574, Entering Thread 1014: Commands::runScriptWithUpload, script name = ReadRAM  
+1014 1709289844574 XXXX 1709289844574, Thread 1014: XXXX 1709289844574, Entering Thread 1014: ToolCommUsb::readTransfer, sideData is 0x25 bytes long, transferDataLength is 0x1 bytes long  
+1014 1709289844576 XXXX 1709289844576, Thread 1014: XXXX 1709289844576, Exiting Thread 1014: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1014 1709289844576 XXXX 1709289844576, Thread 1014: XXXX 1709289844576, Exiting Thread 1014: Commands::runScriptWithUpload  
+1014 1709289844576 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:DebugReadTargetMemory
+1014 1709289844576 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1014 1709289844576 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 true
+1014 1709289844576 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1014 1709289844577 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:DebugReadTargetMemory
+1014 1709289844577 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1014 1709289844577 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 FileRegs
+1014 1709289844577 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 efe
+1014 1709289844577 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 efe
+1014 1709289844577 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Length = 1
+1014 1709289844577 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1014 1709289844577 XXXX 1709289844577, Thread 1014: XXXX 1709289844577, Entering Thread 1014: Commands::runScriptWithUpload, script name = ReadRAM  
+1014 1709289844577 XXXX 1709289844577, Thread 1014: XXXX 1709289844577, Entering Thread 1014: ToolCommUsb::readTransfer, sideData is 0x25 bytes long, transferDataLength is 0x1 bytes long  
+1014 1709289844579 XXXX 1709289844579, Thread 1014: XXXX 1709289844579, Exiting Thread 1014: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1014 1709289844579 XXXX 1709289844579, Thread 1014: XXXX 1709289844579, Exiting Thread 1014: Commands::runScriptWithUpload  
+1014 1709289844579 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:DebugReadTargetMemory
+1014 1709289844579 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1014 1709289844579 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 true
+1014 1709289844579 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1014 1709289844580 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:DebugReadTargetMemory
+1014 1709289844580 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1014 1709289844580 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 FileRegs
+1014 1709289844580 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 efd
+1014 1709289844580 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 efd
+1014 1709289844580 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Length = 1
+1014 1709289844580 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1014 1709289844580 XXXX 1709289844580, Thread 1014: XXXX 1709289844580, Entering Thread 1014: Commands::runScriptWithUpload, script name = ReadRAM  
+1014 1709289844580 XXXX 1709289844580, Thread 1014: XXXX 1709289844580, Entering Thread 1014: ToolCommUsb::readTransfer, sideData is 0x25 bytes long, transferDataLength is 0x1 bytes long  
+1014 1709289844583 XXXX 1709289844583, Thread 1014: XXXX 1709289844583, Exiting Thread 1014: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1014 1709289844583 XXXX 1709289844583, Thread 1014: XXXX 1709289844583, Exiting Thread 1014: Commands::runScriptWithUpload  
+1014 1709289844583 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:DebugReadTargetMemory
+1014 1709289844583 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1014 1709289844583 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 true
+1014 1709289844583 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1014 1709289844583 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:DebugReadTargetMemory
+1014 1709289844583 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1014 1709289844583 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 FileRegs
+1014 1709289844583 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 efe
+1014 1709289844583 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 efe
+1014 1709289844583 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Length = 1
+1014 1709289844583 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1014 1709289844583 XXXX 1709289844583, Thread 1014: XXXX 1709289844583, Entering Thread 1014: Commands::runScriptWithUpload, script name = ReadRAM  
+1014 1709289844583 XXXX 1709289844583, Thread 1014: XXXX 1709289844583, Entering Thread 1014: ToolCommUsb::readTransfer, sideData is 0x25 bytes long, transferDataLength is 0x1 bytes long  
+1014 1709289844586 XXXX 1709289844586, Thread 1014: XXXX 1709289844586, Exiting Thread 1014: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1014 1709289844586 XXXX 1709289844586, Thread 1014: XXXX 1709289844586, Exiting Thread 1014: Commands::runScriptWithUpload  
+1014 1709289844586 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:DebugReadTargetMemory
+1014 1709289844586 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1014 1709289844586 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 true
+1014 1709289844586 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1021 1709289845740 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:DebugReadTargetMemory
+1021 1709289845740 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1021 1709289845740 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 FileRegs
+1021 1709289845740 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 f90
+1021 1709289845740 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 f90
+1021 1709289845740 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Length = 1
+1021 1709289845740 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1021 1709289845740 XXXX 1709289845740, Thread 1021: XXXX 1709289845740, Entering Thread 1021: Commands::runScriptWithUpload, script name = ReadRAM  
+1021 1709289845740 XXXX 1709289845740, Thread 1021: XXXX 1709289845740, Entering Thread 1021: ToolCommUsb::readTransfer, sideData is 0x25 bytes long, transferDataLength is 0x1 bytes long  
+1021 1709289845742 XXXX 1709289845742, Thread 1021: XXXX 1709289845742, Exiting Thread 1021: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1021 1709289845742 XXXX 1709289845742, Thread 1021: XXXX 1709289845742, Exiting Thread 1021: Commands::runScriptWithUpload  
+1021 1709289845742 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:DebugReadTargetMemory
+1021 1709289845742 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1021 1709289845742 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 true
+1021 1709289845742 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1011 1709289905543 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:ResetTarget
+1011 1709289905543 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1011 1709289905543 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 null
+1011 1709289905543 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1011 1709289905543 XXXX 1709289905543, Thread 1011: XXXX 1709289905543, Entering Thread 1011: Commands::runScriptBasic, script name = SetSpeedFromDevice, timeOut = -1 ms  
+1011 1709289905544 XXXX 1709289905544, Thread 1011: XXXX 1709289905544, Exiting Thread 1011: Commands::runScriptBasic  
+1011 1709289905544 XXXX 1709289905544, Thread 1011: XXXX 1709289905544, Entering Thread 1011: Commands::runScriptBasic with script contents. contents[0] = 0xed, ...  
+1011 1709289905545 XXXX 1709289905545, Thread 1011: XXXX 1709289905545, Exiting Thread 1011: Commands::runScriptBasic  
+1011 1709289905545 XXXX 1709289905545, Thread 1011: XXXX 1709289905545, Entering Thread 1011: Commands::runScriptBasic with script contents. contents[0] = 0xec, ...  
+1011 1709289905546 XXXX 1709289905546, Thread 1011: XXXX 1709289905546, Exiting Thread 1011: Commands::runScriptBasic  
+1011 1709289905547 XXXX 1709289905547, Thread 1011: XXXX 1709289905547, Entering Thread 1011: Commands::runScriptBasic, script name = EnterTMOD_HV, timeOut = -1 ms  
+1011 1709289905584 XXXX 1709289905584, Thread 1011: XXXX 1709289905584, Exiting Thread 1011: Commands::runScriptBasic  
+1011 1709289905584 XXXX 1709289905584, Thread 1011: XXXX 1709289905584, Entering Thread 1011: Commands::runScriptBasic, script name = ExitTMOD, timeOut = -1 ms  
+1011 1709289905585 XXXX 1709289905585, Thread 1011: XXXX 1709289905585, Exiting Thread 1011: Commands::runScriptBasic  
+1011 1709289905585 XXXX 1709289905585, Thread 1011: XXXX 1709289905585, Entering Thread 1011: Commands::runScriptBasic, script name = EnterDebugMode, timeOut = -1 ms  
+1011 1709289905844 XXXX 1709289905844, Thread 1011: XXXX 1709289905844, Exiting Thread 1011: Commands::runScriptBasic  
+1011 1709289905844 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:ResetTarget
+1011 1709289905844 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1011 1709289905844 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 none
+1011 1709289905844 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1011 1709289905847 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:GetPC
+1011 1709289905847 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1011 1709289905847 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 null
+1011 1709289905847 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1011 1709289905847 XXXX 1709289905847, Thread 1011: XXXX 1709289905847, Entering Thread 1011: Commands::runScriptBasic, script name = GetPC, timeOut = -1 ms  
+1011 1709289905848 XXXX 1709289905848, Thread 1011: XXXX 1709289905848, Exiting Thread 1011: Commands::runScriptBasic  
+1011 1709289905848 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:GetPC
+1011 1709289905848 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1011 1709289905848 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 0
+1011 1709289905848 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1011 1709289905851 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:DebugReadTargetMemory
+1011 1709289905851 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1011 1709289905851 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 FileRegs
+1011 1709289905851 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 eff
+1011 1709289905851 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 eff
+1011 1709289905851 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Length = 1
+1011 1709289905851 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1011 1709289905851 XXXX 1709289905851, Thread 1011: XXXX 1709289905851, Entering Thread 1011: Commands::runScriptWithUpload, script name = ReadRAM  
+1011 1709289905851 XXXX 1709289905851, Thread 1011: XXXX 1709289905851, Entering Thread 1011: ToolCommUsb::readTransfer, sideData is 0x25 bytes long, transferDataLength is 0x1 bytes long  
+1011 1709289905854 XXXX 1709289905854, Thread 1011: XXXX 1709289905854, Exiting Thread 1011: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1011 1709289905854 XXXX 1709289905854, Thread 1011: XXXX 1709289905854, Exiting Thread 1011: Commands::runScriptWithUpload  
+1011 1709289905854 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:DebugReadTargetMemory
+1011 1709289905854 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1011 1709289905854 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 true
+1011 1709289905854 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1011 1709289905855 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:DebugReadTargetMemory
+1011 1709289905855 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1011 1709289905855 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 FileRegs
+1011 1709289905855 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 eff
+1011 1709289905855 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 eff
+1011 1709289905855 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Length = 1
+1011 1709289905855 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1011 1709289905855 XXXX 1709289905855, Thread 1011: XXXX 1709289905855, Entering Thread 1011: Commands::runScriptWithUpload, script name = ReadRAM  
+1011 1709289905855 XXXX 1709289905855, Thread 1011: XXXX 1709289905855, Entering Thread 1011: ToolCommUsb::readTransfer, sideData is 0x25 bytes long, transferDataLength is 0x1 bytes long  
+1011 1709289905857 XXXX 1709289905857, Thread 1011: XXXX 1709289905857, Exiting Thread 1011: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1011 1709289905857 XXXX 1709289905857, Thread 1011: XXXX 1709289905857, Exiting Thread 1011: Commands::runScriptWithUpload  
+1011 1709289905857 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:DebugReadTargetMemory
+1011 1709289905857 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1011 1709289905857 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 true
+1011 1709289905857 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1011 1709289905858 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:DebugReadTargetMemory
+1011 1709289905858 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1011 1709289905858 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 FileRegs
+1011 1709289905858 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 efe
+1011 1709289905858 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 efe
+1011 1709289905858 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Length = 1
+1011 1709289905858 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1011 1709289905858 XXXX 1709289905858, Thread 1011: XXXX 1709289905858, Entering Thread 1011: Commands::runScriptWithUpload, script name = ReadRAM  
+1011 1709289905858 XXXX 1709289905858, Thread 1011: XXXX 1709289905858, Entering Thread 1011: ToolCommUsb::readTransfer, sideData is 0x25 bytes long, transferDataLength is 0x1 bytes long  
+1011 1709289905860 XXXX 1709289905860, Thread 1011: XXXX 1709289905860, Exiting Thread 1011: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1011 1709289905860 XXXX 1709289905860, Thread 1011: XXXX 1709289905860, Exiting Thread 1011: Commands::runScriptWithUpload  
+1011 1709289905860 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:DebugReadTargetMemory
+1011 1709289905860 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1011 1709289905860 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 true
+1011 1709289905860 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1011 1709289905860 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:DebugReadTargetMemory
+1011 1709289905860 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1011 1709289905860 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 FileRegs
+1011 1709289905860 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 efe
+1011 1709289905860 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 efe
+1011 1709289905860 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Length = 1
+1011 1709289905860 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1011 1709289905861 XXXX 1709289905861, Thread 1011: XXXX 1709289905861, Entering Thread 1011: Commands::runScriptWithUpload, script name = ReadRAM  
+1011 1709289905861 XXXX 1709289905861, Thread 1011: XXXX 1709289905861, Entering Thread 1011: ToolCommUsb::readTransfer, sideData is 0x25 bytes long, transferDataLength is 0x1 bytes long  
+1011 1709289905863 XXXX 1709289905863, Thread 1011: XXXX 1709289905863, Exiting Thread 1011: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1011 1709289905863 XXXX 1709289905863, Thread 1011: XXXX 1709289905863, Exiting Thread 1011: Commands::runScriptWithUpload  
+1011 1709289905863 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:DebugReadTargetMemory
+1011 1709289905863 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1011 1709289905863 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 true
+1011 1709289905863 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1011 1709289905864 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:DebugReadTargetMemory
+1011 1709289905864 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1011 1709289905864 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 FileRegs
+1011 1709289905864 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 efd
+1011 1709289905864 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 efd
+1011 1709289905864 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Length = 1
+1011 1709289905864 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1011 1709289905864 XXXX 1709289905864, Thread 1011: XXXX 1709289905864, Entering Thread 1011: Commands::runScriptWithUpload, script name = ReadRAM  
+1011 1709289905864 XXXX 1709289905864, Thread 1011: XXXX 1709289905864, Entering Thread 1011: ToolCommUsb::readTransfer, sideData is 0x25 bytes long, transferDataLength is 0x1 bytes long  
+1011 1709289905866 XXXX 1709289905866, Thread 1011: XXXX 1709289905866, Exiting Thread 1011: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1011 1709289905866 XXXX 1709289905866, Thread 1011: XXXX 1709289905866, Exiting Thread 1011: Commands::runScriptWithUpload  
+1011 1709289905866 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:DebugReadTargetMemory
+1011 1709289905866 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1011 1709289905866 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 true
+1011 1709289905866 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1011 1709289905867 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:DebugReadTargetMemory
+1011 1709289905867 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1011 1709289905867 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 FileRegs
+1011 1709289905867 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 efe
+1011 1709289905867 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 efe
+1011 1709289905867 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Length = 1
+1011 1709289905867 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1011 1709289905867 XXXX 1709289905867, Thread 1011: XXXX 1709289905867, Entering Thread 1011: Commands::runScriptWithUpload, script name = ReadRAM  
+1011 1709289905867 XXXX 1709289905867, Thread 1011: XXXX 1709289905867, Entering Thread 1011: ToolCommUsb::readTransfer, sideData is 0x25 bytes long, transferDataLength is 0x1 bytes long  
+1011 1709289905869 XXXX 1709289905869, Thread 1011: XXXX 1709289905869, Exiting Thread 1011: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1011 1709289905869 XXXX 1709289905869, Thread 1011: XXXX 1709289905869, Exiting Thread 1011: Commands::runScriptWithUpload  
+1011 1709289905869 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:DebugReadTargetMemory
+1011 1709289905869 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1011 1709289905869 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 true
+1011 1709289905869 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1459 1709289906562 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:setTraceDescriptor
+1459 1709289906562 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1459 1709289906562 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 com.microchip.mplab.libs.RI4ToolsController.DataClasses.TraceDescriptor@70b3756b
+1459 1709289906562 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1459 1709289906562 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:setTraceDescriptor
+1459 1709289906562 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1459 1709289906562 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 none
+1459 1709289906562 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1459 1709289906562 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:DebugWriteTargetMemory
+1459 1709289906562 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1459 1709289906562 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Emulation
+1459 1709289906562 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 fad
+1459 1709289906562 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 fb9
+1459 1709289906562 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Length = 13
+1459 1709289906562 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1459 1709289906562 XXXX 1709289906562, Thread 1459: XXXX 1709289906562, Entering Thread 1459: Commands::runScriptWithDownload, script name = WriteEmu  
+1459 1709289906565 XXXX 1709289906565, Thread 1459: XXXX 1709289906565, Exiting Thread 1459: Commands::runScriptWithDownload(WriteEmu)  
+1459 1709289906565 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:DebugWriteTargetMemory
+1459 1709289906565 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1459 1709289906565 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 true
+1459 1709289906565 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1459 1709289906565 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:SetFreezePerihperalInfo
+1459 1709289906565 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1459 1709289906565 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 BitSetInfo: Values:
+1459 1709289906565 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 BitSetInfo: Address = fd4, Mask = 40, SetVal = 40, Type = Emulation
+1459 1709289906565 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1459 1709289906565 XXXX 1709289906565, Thread 1459: XXXX 1709289906565, Entering Thread 1459: Commands::runScriptWithUpload, script name = ReadRAM  
+1459 1709289906565 XXXX 1709289906565, Thread 1459: XXXX 1709289906565, Entering Thread 1459: ToolCommUsb::readTransfer, sideData is 0x25 bytes long, transferDataLength is 0x1 bytes long  
+1459 1709289906567 XXXX 1709289906567, Thread 1459: XXXX 1709289906567, Exiting Thread 1459: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1459 1709289906567 XXXX 1709289906567, Thread 1459: XXXX 1709289906567, Exiting Thread 1459: Commands::runScriptWithUpload  
+1459 1709289906567 XXXX 1709289906567, Thread 1459: XXXX 1709289906567, Entering Thread 1459: Commands::runScriptWithDownload, script name = WriteRAM  
+1459 1709289906570 XXXX 1709289906570, Thread 1459: XXXX 1709289906570, Exiting Thread 1459: Commands::runScriptWithDownload(WriteRAM)  
+1459 1709289906570 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:SetFreezePerihperalInfo
+1459 1709289906570 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1459 1709289906570 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 none
+1459 1709289906570 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1459 1709289906571 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:GetPC
+1459 1709289906571 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1459 1709289906571 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 null
+1459 1709289906571 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1459 1709289906571 XXXX 1709289906571, Thread 1459: XXXX 1709289906571, Entering Thread 1459: Commands::runScriptBasic, script name = GetPC, timeOut = -1 ms  
+1459 1709289906573 XXXX 1709289906573, Thread 1459: XXXX 1709289906573, Exiting Thread 1459: Commands::runScriptBasic  
+1459 1709289906573 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Post:GetPC
+1459 1709289906573 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return Value
+1459 1709289906573 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 0
+1459 1709289906573 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Return End
+
+1459 1709289906573 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Pre:SetSoftwareBreakpoint
+1459 1709289906573 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload
+1459 1709289906573 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 22c
+1459 1709289906573 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 e0
+1459 1709289906573 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 4
+1459 1709289906573 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC18F8722 Payload End
+1459 1709289906573 XXXX 1709289906573, Thread 1459: XXXX 1709289906573, Entering Thread 1459: Commands::runScriptWithUpload, script name = ReadProgmemDE  
+1459 1709289906573 XXXX 1709289906573, Thread 1459: XXXX 1709289906573, Entering Thread 1459: ToolCommUsb::readTransfer, sideData is 0x29 bytes long, transferDataLength is 0x40 bytes long  
+1459 1709289941653 XXXX 1709289941653, Thread 1459: com.Send returned false 
+1464 1709289941654 XXXX 1709289941654, Thread 1464: ToolCommUsb::read, com.Received returned -1 
+1464 1709289941654 XXXX 1709289941654, Thread 1464: ToolCommUsb::DataReader::run, fatal RI4ControllerException: {null} 

@@ -17,6 +17,9 @@ CONFIG  LVP = OFF ; turn off low voltage mode
 ;Include useful processor-specific definitions
 #include <xc.inc>      
 
+; Our program start point
+PSECT start, class=CODE, reloc=2
+
 PSECT resetVector, class=CODE, reloc=2
 resetVector:
     goto start ; On reset, jump to our program start location
