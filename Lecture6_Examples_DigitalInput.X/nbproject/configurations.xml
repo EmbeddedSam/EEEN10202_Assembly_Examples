@@ -17,7 +17,9 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
-      <itemPath>Lecture6.s</itemPath>
+      <itemPath>pushbutton_input1.s</itemPath>
+      <itemPath>pushbutton_input2.s</itemPath>
+      <itemPath>read_multiple_switches.s</itemPath>
     </logicalFolder>
   </logicalFolder>
   <sourceRootList>
@@ -31,7 +33,7 @@
         <targetDevice>PIC18F8722</targetDevice>
         <targetHeader></targetHeader>
         <targetPluginBoard></targetPluginBoard>
-        <platformTool>Simulator</platformTool>
+        <platformTool>pk4hybrid</platformTool>
         <languageToolchain>pic-as</languageToolchain>
         <languageToolchainVersion>2.46</languageToolchainVersion>
         <platform>3</platform>
@@ -1184,6 +1186,10 @@
                   value="Press to select which tool pack to use"/>
         <property key="voltagevalue" value="4.8"/>
       </pk4hybrid>
+      <item path="pushbutton_input1.s" ex="true" overriding="false">
+      </item>
+      <item path="pushbutton_input2.s" ex="true" overriding="false">
+      </item>
     </conf>
   </confs>
 </configurationDescriptor>
