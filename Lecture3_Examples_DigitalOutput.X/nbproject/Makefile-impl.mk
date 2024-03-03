@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Lecture3_Examples.X
+PROJECTNAME=Lecture3_Examples_DigitalOutput.X
 
 # Active Configuration
 DEFAULTCONF=default

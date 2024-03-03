@@ -30,12 +30,12 @@ ifeq ($(TYPE_IMAGE), DEBUG_RUN)
 IMAGE_TYPE=debug
 OUTPUT_SUFFIX=hex
 DEBUGGABLE_SUFFIX=elf
-FINAL_IMAGE=${DISTDIR}/Lecture3_Examples.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
+FINAL_IMAGE=${DISTDIR}/Lecture3_Examples_DigitalOutput.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
 else
 IMAGE_TYPE=production
 OUTPUT_SUFFIX=hex
 DEBUGGABLE_SUFFIX=elf
-FINAL_IMAGE=${DISTDIR}/Lecture3_Examples.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
+FINAL_IMAGE=${DISTDIR}/Lecture3_Examples_DigitalOutput.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
 endif
 
 ifeq ($(COMPARE_BUILD), true)
@@ -51,17 +51,17 @@ OBJECTDIR=build/${CND_CONF}/${IMAGE_TYPE}
 DISTDIR=dist/${CND_CONF}/${IMAGE_TYPE}
 
 # Source Files Quoted if spaced
-SOURCEFILES_QUOTED_IF_SPACED=lecture3_ex1.s
+SOURCEFILES_QUOTED_IF_SPACED=lecture3_digital_out_full.s
 
 # Object Files Quoted if spaced
-OBJECTFILES_QUOTED_IF_SPACED=${OBJECTDIR}/lecture3_ex1.o
-POSSIBLE_DEPFILES=${OBJECTDIR}/lecture3_ex1.o.d
+OBJECTFILES_QUOTED_IF_SPACED=${OBJECTDIR}/lecture3_digital_out_full.o
+POSSIBLE_DEPFILES=${OBJECTDIR}/lecture3_digital_out_full.o.d
 
 # Object Files
-OBJECTFILES=${OBJECTDIR}/lecture3_ex1.o
+OBJECTFILES=${OBJECTDIR}/lecture3_digital_out_full.o
 
 # Source Files
-SOURCEFILES=lecture3_ex1.s
+SOURCEFILES=lecture3_digital_out_full.s
 
 
 
@@ -82,28 +82,28 @@ FIXDEPS=fixDeps
 ifneq ($(INFORMATION_MESSAGE), )
 	@echo $(INFORMATION_MESSAGE)
 endif
-	${MAKE}  -f nbproject/Makefile-default.mk ${DISTDIR}/Lecture3_Examples.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
+	${MAKE}  -f nbproject/Makefile-default.mk ${DISTDIR}/Lecture3_Examples_DigitalOutput.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
 
 MP_PROCESSOR_OPTION=PIC18F8722
-FINAL_IMAGE_NAME_MINUS_EXTENSION=${DISTDIR}/Lecture3_Examples.X.${IMAGE_TYPE}
+FINAL_IMAGE_NAME_MINUS_EXTENSION=${DISTDIR}/Lecture3_Examples_DigitalOutput.X.${IMAGE_TYPE}
 # ------------------------------------------------------------------------------------
 # Rules for buildStep: pic-as-assembler
 ifeq ($(TYPE_IMAGE), DEBUG_RUN)
-${OBJECTDIR}/lecture3_ex1.o: lecture3_ex1.s  nbproject/Makefile-${CND_CONF}.mk 
+${OBJECTDIR}/lecture3_digital_out_full.o: lecture3_digital_out_full.s  nbproject/Makefile-${CND_CONF}.mk 
 	@${MKDIR} "${OBJECTDIR}" 
-	@${RM} ${OBJECTDIR}/lecture3_ex1.o 
+	@${RM} ${OBJECTDIR}/lecture3_digital_out_full.o 
 	${MP_AS} -mcpu=PIC18F8722 -c \
-	-o ${OBJECTDIR}/lecture3_ex1.o \
-	lecture3_ex1.s \
+	-o ${OBJECTDIR}/lecture3_digital_out_full.o \
+	lecture3_digital_out_full.s \
 	 -D__DEBUG=1   -mdfp="${DFP_DIR}/xc8"  -misa=std -msummary=+mem,-psect,-class,-hex,-file,-sha1,-sha256,-xml,-xmlfull -fmax-errors=20 -mwarn=0 -xassembler-with-cpp  -Wl,-presetVector=0h, -Wl,-pstart=200h
 	
 else
-${OBJECTDIR}/lecture3_ex1.o: lecture3_ex1.s  nbproject/Makefile-${CND_CONF}.mk 
+${OBJECTDIR}/lecture3_digital_out_full.o: lecture3_digital_out_full.s  nbproject/Makefile-${CND_CONF}.mk 
 	@${MKDIR} "${OBJECTDIR}" 
-	@${RM} ${OBJECTDIR}/lecture3_ex1.o 
+	@${RM} ${OBJECTDIR}/lecture3_digital_out_full.o 
 	${MP_AS} -mcpu=PIC18F8722 -c \
-	-o ${OBJECTDIR}/lecture3_ex1.o \
-	lecture3_ex1.s \
+	-o ${OBJECTDIR}/lecture3_digital_out_full.o \
+	lecture3_digital_out_full.s \
 	  -mdfp="${DFP_DIR}/xc8"  -misa=std -msummary=+mem,-psect,-class,-hex,-file,-sha1,-sha256,-xml,-xmlfull -fmax-errors=20 -mwarn=0 -xassembler-with-cpp  -Wl,-presetVector=0h, -Wl,-pstart=200h
 	
 endif
@@ -111,16 +111,16 @@ endif
 # ------------------------------------------------------------------------------------
 # Rules for buildStep: pic-as-linker
 ifeq ($(TYPE_IMAGE), DEBUG_RUN)
-${DISTDIR}/Lecture3_Examples.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}: ${OBJECTFILES}  nbproject/Makefile-${CND_CONF}.mk    
+${DISTDIR}/Lecture3_Examples_DigitalOutput.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}: ${OBJECTFILES}  nbproject/Makefile-${CND_CONF}.mk    
 	@${MKDIR} ${DISTDIR} 
 	${MP_LD} -mcpu=PIC18F8722 ${OBJECTFILES_QUOTED_IF_SPACED} \
-	-o ${DISTDIR}/Lecture3_Examples.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX} \
+	-o ${DISTDIR}/Lecture3_Examples_DigitalOutput.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX} \
 	 -D__DEBUG=1   -mdfp="${DFP_DIR}/xc8"  -misa=std -msummary=+mem,-psect,-class,-hex,-file,-sha1,-sha256,-xml,-xmlfull -mcallgraph=std -Wl,-Map=${FINAL_IMAGE_NAME_MINUS_EXTENSION}.map -mno-download-hex  -Wl,-presetVector=0h, -Wl,-pstart=200h
 else
-${DISTDIR}/Lecture3_Examples.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}: ${OBJECTFILES}  nbproject/Makefile-${CND_CONF}.mk   
+${DISTDIR}/Lecture3_Examples_DigitalOutput.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}: ${OBJECTFILES}  nbproject/Makefile-${CND_CONF}.mk   
 	@${MKDIR} ${DISTDIR} 
 	${MP_LD} -mcpu=PIC18F8722 ${OBJECTFILES_QUOTED_IF_SPACED} \
-	-o ${DISTDIR}/Lecture3_Examples.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX} \
+	-o ${DISTDIR}/Lecture3_Examples_DigitalOutput.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX} \
 	  -mdfp="${DFP_DIR}/xc8"  -misa=std -msummary=+mem,-psect,-class,-hex,-file,-sha1,-sha256,-xml,-xmlfull -mcallgraph=std -Wl,-Map=${FINAL_IMAGE_NAME_MINUS_EXTENSION}.map -mno-download-hex  -Wl,-presetVector=0h, -Wl,-pstart=200h
 endif
 

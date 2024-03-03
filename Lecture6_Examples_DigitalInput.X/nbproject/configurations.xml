@@ -17,8 +17,6 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
-      <itemPath>Lecture5_ex1.s</itemPath>
-      <itemPath>DigitalOutputLab.s</itemPath>
       <itemPath>Lecture6.s</itemPath>
     </logicalFolder>
   </logicalFolder>
@@ -39,7 +37,7 @@
         <platform>3</platform>
       </toolsSet>
       <packs>
-        <pack name="PIC18Fxxxx_DFP" vendor="Microchip" version="1.6.159"/>
+        <pack name="PIC18Fxxxx_DFP" vendor="Microchip" version="1.4.151"/>
       </packs>
       <ScriptingSettings>
       </ScriptingSettings>
@@ -68,22 +66,6 @@
         <makeCustomizationEnableLongLines>false</makeCustomizationEnableLongLines>
         <makeCustomizationNormalizeHexFile>false</makeCustomizationNormalizeHexFile>
       </makeCustomizationType>
-      <item path="DigitalOutputLab.s" ex="true" overriding="false">
-        <pic-as-assembler>
-        </pic-as-assembler>
-        <pic-as-global>
-        </pic-as-global>
-        <pic-as-linker>
-        </pic-as-linker>
-      </item>
-      <item path="Lecture5_ex1.s" ex="true" overriding="false">
-        <pic-as-assembler>
-        </pic-as-assembler>
-        <pic-as-global>
-        </pic-as-global>
-        <pic-as-linker>
-        </pic-as-linker>
-      </item>
       <Simulator>
         <property key="codecoverage.enabled" value="Disable"/>
         <property key="codecoverage.enableoutputtofile" value="false"/>

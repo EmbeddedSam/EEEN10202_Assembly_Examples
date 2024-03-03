@@ -67,14 +67,14 @@ MEDIUMCONST 11000-1FFFF 1
 # All other numeric values are in decimal.
 %LINETAB
 $build/default/debug/example.o
-200 start CODE >20:C:\Users\samue\Desktop\EEEN10202-Assembly-Examples\PIC18F8722_Example_Project.X\example.s
-202 start CODE >21:C:\Users\samue\Desktop\EEEN10202-Assembly-Examples\PIC18F8722_Example_Project.X\example.s
-204 start CODE >22:C:\Users\samue\Desktop\EEEN10202-Assembly-Examples\PIC18F8722_Example_Project.X\example.s
-206 start CODE >23:C:\Users\samue\Desktop\EEEN10202-Assembly-Examples\PIC18F8722_Example_Project.X\example.s
-208 start CODE >24:C:\Users\samue\Desktop\EEEN10202-Assembly-Examples\PIC18F8722_Example_Project.X\example.s
-20A start CODE >25:C:\Users\samue\Desktop\EEEN10202-Assembly-Examples\PIC18F8722_Example_Project.X\example.s
-20C start CODE >27:C:\Users\samue\Desktop\EEEN10202-Assembly-Examples\PIC18F8722_Example_Project.X\example.s
-0 resetVector CODE >15:C:\Users\samue\Desktop\EEEN10202-Assembly-Examples\PIC18F8722_Example_Project.X\example.s
+200 start CODE >21:C:\Users\samue\Desktop\EEEN10202-Assembly-Examples\PIC18F8722_Example_Project.X\example.s
+202 start CODE >22:C:\Users\samue\Desktop\EEEN10202-Assembly-Examples\PIC18F8722_Example_Project.X\example.s
+204 start CODE >23:C:\Users\samue\Desktop\EEEN10202-Assembly-Examples\PIC18F8722_Example_Project.X\example.s
+206 start CODE >24:C:\Users\samue\Desktop\EEEN10202-Assembly-Examples\PIC18F8722_Example_Project.X\example.s
+208 start CODE >25:C:\Users\samue\Desktop\EEEN10202-Assembly-Examples\PIC18F8722_Example_Project.X\example.s
+20A start CODE >26:C:\Users\samue\Desktop\EEEN10202-Assembly-Examples\PIC18F8722_Example_Project.X\example.s
+20C start CODE >28:C:\Users\samue\Desktop\EEEN10202-Assembly-Examples\PIC18F8722_Example_Project.X\example.s
+0 resetVector CODE >16:C:\Users\samue\Desktop\EEEN10202-Assembly-Examples\PIC18F8722_Example_Project.X\example.s
 # %SYMTAB Section
 # An enumeration of all symbols in the program.
 # The beginning of the section is indicated by %SYMTAB.

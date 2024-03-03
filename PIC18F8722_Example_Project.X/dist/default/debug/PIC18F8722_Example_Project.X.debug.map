@@ -1,12 +1,12 @@
-Microchip MPLAB XC8 PIC(R) Assembler V2.45
+Microchip MPLAB XC8 PIC(R) Assembler V2.46
 
 Linker command line:
 
 -W-3 \
-  --edf=C:/Users/samue/.mchp_packs/Microchip/PIC18Fxxxx_DFP/1.6.159/xc8\pic\dat\20231017163449_en.msgs \
+  --edf=C:\Program Files\Microchip\xc8\v2.46\pic\dat\20240104201356_en.msgs \
   -cs -h+dist/default/debug\PIC18F8722_Example_Project.X.debug.sym \
   --cmf=dist/default/debug\PIC18F8722_Example_Project.X.debug.cmf -z \
-  -Q18F8722 -oC:\Users\samue\AppData\Local\Temp\xcAsqjs.\driver_tmp_3.o -N \
+  -Q18F8722 -oC:\Users\samue\AppData\Local\Temp\xcAspa0.\driver_tmp_3.o \
   -presetVector=0h -pstart=200h --fixupoverflow=error \
   -ver=XC8 PIC(R) Assembler --fixupoverflow=lstwarn \
   -Mdist/default/debug/PIC18F8722_Example_Project.X.debug.map -E1 \
@@ -144,35 +144,35 @@ UNUSED ADDRESS RANGES
 
                                   Symbol Table
 
-__H__absolute__ __absolute__ 000000  __Hspace_1      (abs)        000000
-__Hspace_3      (abs)        000000  __L__absolute__ __absolute__ 000000
-__Lconfig       config       000000  __LresetVector  resetVector  000000
-__Lspace_0      (abs)        000000  __Lspace_1      (abs)        000000
-__Lspace_3      (abs)        000000  __Lspace_4      (abs)        000000
+__H__absolute__ __absolute__ 000000  __Hcode         code         00020E
+__Hconfig       config       30000E  __Hdata         data         00020E
+__Hedata        edata        00020E  __HresetVector  resetVector  000004
+__Hspace_0      (abs)        00020E  __Hspace_1      (abs)        000000
+__Hspace_3      (abs)        000000  __Hspace_4      (abs)        60000F
+__Hstart        start        00020E  __Hudata        udata        00020E
+__Hudata_acs    udata_acs    00020E  __Hudata_bank0  udata_bank0  00020E
+__Hudata_bank1  udata_bank1  00020E  __Hudata_bank10 udata_bank10 00020E
+__Hudata_bank11 udata_bank11 00020E  __Hudata_bank12 udata_bank12 00020E
+__Hudata_bank13 udata_bank13 00020E  __Hudata_bank14 udata_bank14 00020E
+__Hudata_bank15 udata_bank15 00020E  __Hudata_bank2  udata_bank2  00020E
+__Hudata_bank3  udata_bank3  00020E  __Hudata_bank4  udata_bank4  00020E
+__Hudata_bank5  udata_bank5  00020E  __Hudata_bank6  udata_bank6  00020E
+__Hudata_bank7  udata_bank7  00020E  __Hudata_bank8  udata_bank8  00020E
+__Hudata_bank9  udata_bank9  00020E  __L__absolute__ __absolute__ 000000
+__Lcode         code         00020E  __Lconfig       config       000000
+__Ldata         data         00020E  __Ledata        edata        00020E
+__LresetVector  resetVector  000000  __Lspace_0      (abs)        000000
+__Lspace_1      (abs)        000000  __Lspace_3      (abs)        000000
+__Lspace_4      (abs)        000000  __Lstart        start        000200
+__Ludata        udata        00020E  __Ludata_acs    udata_acs    00020E
+__Ludata_bank0  udata_bank0  00020E  __Ludata_bank1  udata_bank1  00020E
+__Ludata_bank10 udata_bank10 00020E  __Ludata_bank11 udata_bank11 00020E
+__Ludata_bank12 udata_bank12 00020E  __Ludata_bank13 udata_bank13 00020E
+__Ludata_bank14 udata_bank14 00020E  __Ludata_bank15 udata_bank15 00020E
+__Ludata_bank2  udata_bank2  00020E  __Ludata_bank3  udata_bank3  00020E
+__Ludata_bank4  udata_bank4  00020E  __Ludata_bank5  udata_bank5  00020E
+__Ludata_bank6  udata_bank6  00020E  __Ludata_bank7  udata_bank7  00020E
+__Ludata_bank8  udata_bank8  00020E  __Ludata_bank9  udata_bank9  00020E
 __S0            (abs)        000000  __S1            (abs)        000000
-__S3            (abs)        000000  isa$xinst       (abs)        000000
-isa$std         (abs)        000001  __HresetVector  resetVector  000004
-__Lstart        start        000200  __Hcode         code         00020E
-__Hdata         data         00020E  __Hedata        edata        00020E
-__Hspace_0      (abs)        00020E  __Hstart        start        00020E
-__Hudata        udata        00020E  __Hudata_acs    udata_acs    00020E
-__Hudata_bank0  udata_bank0  00020E  __Hudata_bank1  udata_bank1  00020E
-__Hudata_bank10 udata_bank10 00020E  __Hudata_bank11 udata_bank11 00020E
-__Hudata_bank12 udata_bank12 00020E  __Hudata_bank13 udata_bank13 00020E
-__Hudata_bank14 udata_bank14 00020E  __Hudata_bank15 udata_bank15 00020E
-__Hudata_bank2  udata_bank2  00020E  __Hudata_bank3  udata_bank3  00020E
-__Hudata_bank4  udata_bank4  00020E  __Hudata_bank5  udata_bank5  00020E
-__Hudata_bank6  udata_bank6  00020E  __Hudata_bank7  udata_bank7  00020E
-__Hudata_bank8  udata_bank8  00020E  __Hudata_bank9  udata_bank9  00020E
-__Lcode         code         00020E  __Ldata         data         00020E
-__Ledata        edata        00020E  __Ludata        udata        00020E
-__Ludata_acs    udata_acs    00020E  __Ludata_bank0  udata_bank0  00020E
-__Ludata_bank1  udata_bank1  00020E  __Ludata_bank10 udata_bank10 00020E
-__Ludata_bank11 udata_bank11 00020E  __Ludata_bank12 udata_bank12 00020E
-__Ludata_bank13 udata_bank13 00020E  __Ludata_bank14 udata_bank14 00020E
-__Ludata_bank15 udata_bank15 00020E  __Ludata_bank2  udata_bank2  00020E
-__Ludata_bank3  udata_bank3  00020E  __Ludata_bank4  udata_bank4  00020E
-__Ludata_bank5  udata_bank5  00020E  __Ludata_bank6  udata_bank6  00020E
-__Ludata_bank7  udata_bank7  00020E  __Ludata_bank8  udata_bank8  00020E
-__Ludata_bank9  udata_bank9  00020E  __Hconfig       config       30000E
-__Hspace_4      (abs)        60000F  
+__S3            (abs)        000000  isa$std         (abs)        000001
+isa$xinst       (abs)        000000  

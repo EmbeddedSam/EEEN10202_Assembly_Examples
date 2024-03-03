@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Example_Project.X
+PROJECTNAME=PIC18F8722_Example_Project.X
 
 # Active Configuration
 DEFAULTCONF=default
