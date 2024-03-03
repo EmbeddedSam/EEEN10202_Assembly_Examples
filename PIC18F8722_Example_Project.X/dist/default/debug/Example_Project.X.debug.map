@@ -1,0 +1,177 @@
+Microchip MPLAB XC8 PIC(R) Assembler V2.45
+
+Linker command line:
+
+-W-3 \
+  --edf=C:\Program Files\Microchip\xc8\v2.45\pic\dat\20230818022343_en.msgs \
+  -cs -h+dist/default/debug\Example_Project.X.debug.sym \
+  --cmf=dist/default/debug\Example_Project.X.debug.cmf -z -Q18F8722 \
+  -oC:\Users\mchsssw4\AppData\Local\Temp\xcAs1uc.\driver_tmp_3.o \
+  -presetVector=0h -pstart=200h --fixupoverflow=error \
+  -ver=XC8 PIC(R) Assembler --fixupoverflow=lstwarn \
+  -Mdist/default/debug/Example_Project.X.debug.map -E1 --acfsm=1493 \
+  -ACODE=00h-01FFFFh -ACONST=00h-01FFFFh -ASMALLCONST=01000h-010FFhx496 \
+  -AMEDIUMCONST=01000h-0FFFFh,011000h-01FFFFh -ACOMRAM=00h-05Fh \
+  -AABS1=00h-0F5Fh -ABIGRAM=00h-0F5Fh \
+  -ARAM=060h-0FFh,0100h-01FFhx14,0F00h-0F5Fh -ABANK0=060h-0FFh \
+  -ABANK1=0100h-01FFh -ABANK2=0200h-02FFh -ABANK3=0300h-03FFh \
+  -ABANK4=0400h-04FFh -ABANK5=0500h-05FFh -ABANK6=0600h-06FFh \
+  -ABANK7=0700h-07FFh -ABANK8=0800h-08FFh -ABANK9=0900h-09FFh \
+  -ABANK10=0A00h-0AFFh -ABANK11=0B00h-0BFFh -ABANK12=0C00h-0CFFh \
+  -ABANK13=0D00h-0DFFh -ABANK14=0E00h-0EFFh -ABANK15=0F00h-0F5Fh \
+  -ASFR=0F60h-0FFFh -ABIGSFR=0F60h-0FFFh -ACONFIG=0300000h-0300000h \
+  -AIDLOC=0200000h-0200007h -AEEDATA=0F00000h-0F003FFh \
+  build/default/debug/example.o 
+
+Object code version is 3.11
+
+Machine type is 18F8722
+
+
+
+                Name                               Link     Load   Length Selector   Space Scale
+build/default/debug/example.o
+                config                           300001   300001        D        0       4
+                start                               200      200        E      100       0
+                resetVector                           0        0        4        0       0
+
+TOTAL           Name                               Link     Load   Length     Space
+        CLASS   CODE           
+                start                               200      200        E         0
+                resetVector                           0        0        4         0
+
+        CLASS   CONST          
+
+        CLASS   SMALLCONST     
+
+        CLASS   MEDIUMCONST    
+
+        CLASS   COMRAM         
+
+        CLASS   ABS1           
+
+        CLASS   BIGRAM         
+
+        CLASS   RAM            
+
+        CLASS   BANK0          
+
+        CLASS   BANK1          
+
+        CLASS   BANK2          
+
+        CLASS   BANK3          
+
+        CLASS   BANK4          
+
+        CLASS   BANK5          
+
+        CLASS   BANK6          
+
+        CLASS   BANK7          
+
+        CLASS   BANK8          
+
+        CLASS   BANK9          
+
+        CLASS   BANK10         
+
+        CLASS   BANK11         
+
+        CLASS   BANK12         
+
+        CLASS   BANK13         
+
+        CLASS   BANK14         
+
+        CLASS   BANK15         
+
+        CLASS   SFR            
+
+        CLASS   BIGSFR         
+
+        CLASS   CONFIG         
+                config                           300001   300001        D         4
+
+        CLASS   IDLOC          
+
+        CLASS   EEDATA         
+
+
+
+SEGMENTS        Name                           Load    Length   Top    Selector   Space  Class
+
+                resetVector                    000000  000004  000004         0       0  CODE    
+                start                          000200  00000E  00020E       100       0  CODE    
+
+
+UNUSED ADDRESS RANGES
+
+        Name                Unused          Largest block    Delta
+        BANK0            000060-0000FF               A0
+        BANK1            000100-0001FF              100
+        BANK10           000A00-000AFF              100
+        BANK11           000B00-000BFF              100
+        BANK12           000C00-000CFF              100
+        BANK13           000D00-000DFF              100
+        BANK14           000E00-000EFF              100
+        BANK15           000F00-000F5F               60
+        BANK2            000200-0002FF              100
+        BANK3            000300-0003FF              100
+        BANK4            000400-0004FF              100
+        BANK5            000500-0005FF              100
+        BANK6            000600-0006FF              100
+        BANK7            000700-0007FF              100
+        BANK8            000800-0008FF              100
+        BANK9            000900-0009FF              100
+        BIGRAM           000004-0001FF              1FC
+                         00020E-000F5F              D52
+        BIGSFR           000F60-000FFF               A0
+        CODE             000004-0001FF              1FC
+                         00020E-01FFFF            1FDF2
+        COMRAM           000000-00005F               60
+        CONFIG           300000-300000                1
+        CONST            000004-0001FF              1FC
+                         00020E-01FFFF            1FDF2
+        EEDATA           F00000-F003FF              400
+        IDLOC            200000-200007                8
+        MEDIUMCONST      001000-00FFFF             F000
+                         011000-01FFFF             F000
+        RAM              000060-000F5F              100
+        SFR              000F60-000FFF               A0
+        SMALLCONST       001000-01FFFF              100
+
+                                  Symbol Table
+
+__H__absolute__ __absolute__ 000000  __Hcode         code         00020E
+__Hconfig       config       30000E  __Hdata         data         00020E
+__Hedata        edata        00020E  __HresetVector  resetVector  000004
+__Hspace_0      (abs)        00020E  __Hspace_1      (abs)        000000
+__Hspace_3      (abs)        000000  __Hspace_4      (abs)        60000F
+__Hstart        start        00020E  __Hudata        udata        00020E
+__Hudata_acs    udata_acs    00020E  __Hudata_bank0  udata_bank0  00020E
+__Hudata_bank1  udata_bank1  00020E  __Hudata_bank10 udata_bank10 00020E
+__Hudata_bank11 udata_bank11 00020E  __Hudata_bank12 udata_bank12 00020E
+__Hudata_bank13 udata_bank13 00020E  __Hudata_bank14 udata_bank14 00020E
+__Hudata_bank15 udata_bank15 00020E  __Hudata_bank2  udata_bank2  00020E
+__Hudata_bank3  udata_bank3  00020E  __Hudata_bank4  udata_bank4  00020E
+__Hudata_bank5  udata_bank5  00020E  __Hudata_bank6  udata_bank6  00020E
+__Hudata_bank7  udata_bank7  00020E  __Hudata_bank8  udata_bank8  00020E
+__Hudata_bank9  udata_bank9  00020E  __L__absolute__ __absolute__ 000000
+__Lcode         code         00020E  __Lconfig       config       000000
+__Ldata         data         00020E  __Ledata        edata        00020E
+__LresetVector  resetVector  000000  __Lspace_0      (abs)        000000
+__Lspace_1      (abs)        000000  __Lspace_3      (abs)        000000
+__Lspace_4      (abs)        000000  __Lstart        start        000200
+__Ludata        udata        00020E  __Ludata_acs    udata_acs    00020E
+__Ludata_bank0  udata_bank0  00020E  __Ludata_bank1  udata_bank1  00020E
+__Ludata_bank10 udata_bank10 00020E  __Ludata_bank11 udata_bank11 00020E
+__Ludata_bank12 udata_bank12 00020E  __Ludata_bank13 udata_bank13 00020E
+__Ludata_bank14 udata_bank14 00020E  __Ludata_bank15 udata_bank15 00020E
+__Ludata_bank2  udata_bank2  00020E  __Ludata_bank3  udata_bank3  00020E
+__Ludata_bank4  udata_bank4  00020E  __Ludata_bank5  udata_bank5  00020E
+__Ludata_bank6  udata_bank6  00020E  __Ludata_bank7  udata_bank7  00020E
+__Ludata_bank8  udata_bank8  00020E  __Ludata_bank9  udata_bank9  00020E
+__S0            (abs)        000000  __S1            (abs)        000000
+__S3            (abs)        000000  isa$std         (abs)        000001
+isa$xinst       (abs)        000000  
